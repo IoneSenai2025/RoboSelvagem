@@ -1,0 +1,4447 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>O Robô Selvagem - Tradução</title>
+    <style>
+        body { font-family: Courier, monospace; margin: 20px; line-height: 1.5; font-size: 12pt; }
+        .title-page { text-align: center; margin-top: 150px; }
+        .title { font-size: 24pt; font-weight: bold; text-transform: uppercase; }
+        .written-by { margin-top: 30px; }
+        .scene-heading { text-transform: uppercase; font-weight: bold; margin-top: 25px; margin-bottom: 10px; }
+        .action { margin-bottom: 10px; text-align: left; }
+        .character { text-align: center; text-transform: uppercase; margin-top: 10px; margin-bottom: 0; padding-left: 2.5in; padding-right: 2.5in; font-weight: bold; /* Aproximação de margens de personagem */ }
+        .dialogue { text-align: center; margin-top: 0; margin-bottom: 10px; padding-left: 1.5in; padding-right: 1.5in; /* Aproximação de margens de diálogo */ }
+        .parenthetical { text-align: center; font-style: italic; margin-top: -5px; margin-bottom: 5px; padding-left: 2in; padding-right: 2in; }
+        .transition { text-transform: uppercase; text-align: right; margin-top: 15px; margin-bottom: 15px; }
+        .page-number { text-align: right; font-size: 10pt; margin-top: 30px; position: fixed; bottom: 10px; right: 20px; } /* Rodapé fixo */
+        @media print {
+            .page-break { page-break-after: always; }
+            .page-number::before { content: counter(page); }
+            body { counter-reset: page; }
+        }
+        .page { border: 0px solid #ccc; padding: 1in; min-height: 9in; /* Para simular a página A4/Letter */ box-sizing: border-box; } /* Removida borda para teste */
+      img {width: 100%;}
+    </style>
+</head>
+<body>
+
+<!-- PÁGINA DE TÍTULO -->
+<div class="page title-page">
+    <p class="title">O ROBÔ SELVAGEM - TRADUÇÃO</p>
+  <img src="https://m.media-amazon.com/images/S/pv-target-images/596490bcd1276afafd4ac424fe5df42ec12775e578c05c4ae011d446b3987464.jpg" alt="">
+    <br><br><br><br>
+    <p class="written-by">Escrito por</p>
+    <br>
+    <p class="author">Chris Sanders</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 1 (Numeração do roteiro) -->
+<div class="page">
+<p class="scene-heading">OA SQ0100 - O PRÓLOGO</p>
+<p class="action">SEQUÊNCIA DE ABERTURA DA DREAMWORKS FOCA EM UMA LUA</p>
+<p class="action">DISSOLVE para uma versão mais escura. Nuvens de tempestade cobrem a lua, PULSANDO com relâmpagos.</p>
+<p class="action">Os sons da tempestade aumentam em ferocidade e volume, o trovão atinge um ponto mais .</p>
+<p class="transition">CORTA PARA:</p>
+<p class="scene-heading">1A SQ0200 - O ROBÔ DESPERTA</p>
+<p class="scene-heading">1 EXT. PRAIA DESERTA - AMANHECER</p>
+<p class="action">Luz ofuscante, silêncio, exceto pelas ondulações do oceano quebrando em uma praia de pedras macias. O céu e a costa estão distorcidos como se vistos por uma lente grande angular. LENTO AFASTAMENTO revela uma costa acidentada refletida na lente arredondada de um robô, ROZZUM 7134. AMPLIA para revelar que Rozzum espia de uma fenda em um contêiner de transporte quase intacto.</p>
+<p class="action">Lontras se reúnem, investigando a curiosidade. Uma CUTUCA a nuca do robô, ATIVANDO-o acidentalmente.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Olá. Bonjour. Guten tag. Hujambo. Hola. Parabéns pela sua compra de um robô da Universal Dynamics. Eu sou Rozzum sete-um-três-quatro. Um Rozzum sempre completa sua tarefa, é só pedir!</p>
+<br>
+<p class="action">Silêncio. ROZZUM 7134 pisca.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="parenthetical">(CONT.)</p>
+<p class="dialogue">É só, pedir--</p>
+<br>
+<p class="action">Rozzum 7134 é ATINGIDA EM CHEIO por uma onda. Rolada sob a água salgada, ela é jogada como um brinquedo contra uma parede de basalto.</p>
+<p class="action">A onda RECUA, deixando 7134 escorrendo. Outra onda SE APROXIMA.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Processando.</p>
+<br>
+<p class="page-number">1</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 2 -->
+<div class="page">
+<p class="action">Rozzum 7134 tenta escalar para um lugar seguro, ESCORREGA. Rozzum 7134 nota um caranguejo subindo apressado pela parede de rocha.</p>
+<p class="action">Ela se RECONFIGURA para imitar a postura do caranguejo. Rozzum 7134 consegue escalar e sair.</p>
+<p class="scene-heading">2 EXT. TOPO DO PENHASCO - MOMENTOS DEPOIS</p>
+<p class="action">O caranguejo sobe e aparece, seguido por Rozzum 7134.</p>
+<p class="action">VISÃO DA ROZZUM: “CLIENTE LOCALIZADO?"</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Você precisa de--</p>
+<br>
+<p class="action">O caranguejo é ARRANCADO por uma gaivota que passa.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">...ajuda?</p>
+<br>
+<p class="action">Rozzum 7134 FOCA em uma parede de vegetação densa à sua frente: aciona os sensores de captação de som.</p>
+<p class="action">Rozzum 7134 INCLINA a cabeça, escutando: sons de animais e pássaros vêm de trás da cortina de verde.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Pronta para receber minha primeira tarefa.</p>
+<br>
+<p class="action">Rozzum 7134 entra na floresta.</p>
+<p class="scene-heading">2A SQ0250 - A FLORESTA</p>
+<p class="scene-heading">3 EXT. FLORESTA DA ILHA - DIA</p>
+<p class="action">UM CORVO pousa nos galhos de uma árvore. Ele PAUSA, um som desconhecido se aproximando; MÚSICA.</p>
+<p class="action">OLHANDO PARA BAIXO ele vê Rozzum 7134 abrindo caminho por entre as árvores. Seu tronco GIRA alegremente.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Rozzum Sete Um Três Quatro está disponível para atribuição de tarefa.</p>
+<br>
+<p class="action">UM LINCE ESPREITA a estranha aparição que passa.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="page-number">2</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 3 -->
+<div class="page">
+<p class="dialogue">Robôs Rozzum vêm de fábrica com o processador dimensional Alfa-113.</p>
+<br>
+<p class="action">Rozzum 7134 PASSA por entre as árvores.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Se você não tem certeza de como posso ajudar, tente perguntar sobre mim.</p>
+<br>
+<p class="action">Em Rozzum 7134, atravessando um tronco inclinado na tentativa de se comunicar com um TEXUGO.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Com licença! Você sabia que eu posso ajudar com as compras de supermercado? Serviços bancários? Paisagismo?</p>
+<br>
+<p class="action">O texugo se enterra e some. 7134 avista um esquilo ESPREITANDO de sua casa na árvore.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Olá! Por acaso você encomendou um robô ajudante Rozzum?</p>
+<br>
+<p class="action">7134 é ATINGIDA por bolotas.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Isso é um não?</p>
+<br>
+<p class="action">Rozzum 7134 LANÇA UM FLASH no esquilo inesperadamente com um estroboscópio no peito, CEGANDO-o. Um pequeno som de ZUMBIDO enquanto um adesivo é dispensado por uma pequena fenda no peito de 7134.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Aqui está um adesivo grátis. Escaneie o código e receba dez por cento de desconto no seu--</p>
+<br>
+<p class="action">O esquilo RASGA o adesivo.</p>
+<p class="action">EM UM CASTOR, PADDLER, finalizando uma modesta represa. Ele ouve a música estranha. Espia 7134 PASSANDO como o Pé Grande. 7134 PAUSA, CORRE em direção a Paddler.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Você precisa de ajuda?</p>
+<br>
+<p class="action">Ele está PETRIFICADO.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Eu vejo seu problema.</p>
+<br>
+<p class="page-number">3</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 4 -->
+<div class="page">
+<p class="action">Rozzum 7134 PUXA um galho chave. A represa inteira desmorona - é levada pela água.</p>
+<p class="action">FLASH! 7134 gera um adesivo para Paddler, que desaparece sob a água.</p>
+<p class="action">EM UM CERVO SALTANDO pelo prado.</p>
+<p class="action">Rozzum 7134 se RECONFIGURA PARA EMULAR OS SALTOS DO CERVO.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="parenthetical">(SALTANDO ao lado)</p>
+<p class="dialogue">Rozzums são programados para mímica física instantânea, para--</p>
+<br>
+<p class="action">O cervo DESVIA. CHUTA Rozzum 7134.</p>
+<p class="action">UMA BORBOLETA passa voando por suas lentes.</p>
+<p class="action">Rozzum 7134 SE APROXIMA de uma árvore coberta de borboletas.</p>
+<p class="action">TODOS os insetos VOAM de uma vez. Cercada por uma nuvem de cor e movimento, Rozzum 7134 fica desorientada.</p>
+<p class="action">Uma borboleta POUSA em seu dedo.</p>
+<p class="action">UM CORVO pousa, ESMAGA a borboleta com o bico.</p>
+<p class="action">Um Lince SALTA de seu esconderijo, ATACANDO O corvo na mão de 7134. Rozzum 7134 ESTENDE o braço um pouco, distanciando sua cabeça da batalha selvagem no final de seu braço.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Agressão detectada.</p>
+<br>
+<p class="action">Um carcaju AGARRA a outra metade do corvo morto, uma selvagem DISPUTA por seu corpo.</p>
+<p class="action">A cabeça do corvo SE SOLTA e cai na mão de 7134.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Meu pacote de comunicação inclui estratégias para resolução de conflitos.</p>
+<br>
+<p class="action">A luta ESCALA rapidamente. A poeira OCULTA a cena.</p>
+<p class="action">Um gambá, DAISY, entra na briga. A luta é instantaneamente contida, os agressores FOGEM. 7134 PEGA o gambá.</p>
+<p class="action">O gambá REPREENDE 7134 selvagemente.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="page-number">4</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 5 -->
+<div class="page">
+<p class="dialogue">Seu dialeto não está nos meus bancos de dados.</p>
+<br>
+<p class="action">7134 coloca o gambá de volta no chão.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Diga ao seu povo para não se preocupar. Rozzum 7134 resolverá essa barreira de idioma em pouco tempo.</p>
+<br>
+<p class="action">O gambá BORRIFA. A nuvem nociva ENVOLVE 7134.</p>
+<p class="scene-heading">4 EXT. FLORESTA - MAIS TARDE</p>
+<p class="action">CLOSE NA CABEÇA DE 7134 - ela está sentada muito quieta.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Ativando modo de aprendizado.</p>
+<br>
+<p class="action">AFASTA, revelando que estamos em TIME LAPSE. Noites e dias passam, com uma multidão de animais parando por perto. A chuva cai, deixa lixo sobre ela. Rozzum 7134 nunca se move. UMA SEMANA se passa, folhas se acumulando em seu exterior. Os animais a ignoram, cuidam de suas vidas. O processador de 7134 TRABALHA SEM PARAR. DING!</p>
+<p class="action">VISÃO DA ROZZUM: TRADUÇÃO COMPLETA</p>
+<br>
+<p class="character">DONINHA 2</p>
+<p class="dialogue">Ei, olha só. Olha, olha, olha. Alguém morreu aqui.</p>
+<br>
+<p class="character">DONINHA 3</p>
+<p class="dialogue">Deixa eu ver, deixa eu ver. Oooh.</p>
+<br>
+<p class="character">DONINHA 2</p>
+<p class="dialogue">Quem foi?</p>
+<br>
+<p class="character">DONINHA 1</p>
+<p class="dialogue">Alguém que a gente conhece?</p>
+<br>
+<p class="character">DONINHA 2</p>
+<p class="dialogue">Fresco ou não?</p>
+<br>
+<p class="character">DONINHA 1</p>
+<p class="dialogue">O cheiro está bom.</p>
+<br>
+<p class="character">DONINHA 2</p>
+<p class="dialogue">O gosto é horrível.</p>
+<br>
+<p class="character">DONINHA 3</p>
+<p class="dialogue">Oh, está acordando! Corram!</p>
+<p class="page-number">5</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 6 -->
+<div class="page">
+<br>
+<p class="character">DONINHA 2</p>
+<p class="dialogue">Ei, está acordando!</p>
+<br>
+<p class="character">DONINHA 1</p>
+<p class="dialogue">É um monstro! Corram por suas vidas!</p>
+<br>
+<p class="action">Rozzum 7134 se LEVANTA, limpando os detritos de si mesma.</p>
+<p class="scene-heading">5 EXT. CLAREIRA - MAIS TARDE.</p>
+<p class="action">Uma multidão de animais pasta, forrageia, se move de um lado para o outro. Todos PARAM. Rozzum 7134 entra na clareira.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Olhem! É a coisa que destruiu minha represa.</p>
+<br>
+<p class="character">ANIMAIS</p>
+<p class="dialogue">O monstro! Credo! Acho que vai falar.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Obrigada pela sua paciência enquanto eu decifrava seu idioma. Eu sou Rozzum sete um três quatro, pronta para aprimorar suas vidas com a realização de tarefas multifásicas integradas.</p>
+<br>
+<p class="action">UM COELHINHO SUPER FOFO se aproxima SALTANDO.</p>
+<br>
+<p class="character">COELHINHO</p>
+<p class="dialogue">Você veio nos matar?</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Negativo, estou aqui para ajudar com quaisquer tarefas que você--</p>
+<br>
+<p class="character">COELHINHO</p>
+<p class="parenthetical">(para a multidão)</p>
+<p class="dialogue">Ele diz que não.</p>
+<br>
+<p class="character">PÉ-LARGO (O.S.)</p>
+<p class="dialogue">*BUFADA</p>
+<br>
+<p class="action">Roz é ATROPELADA por um alce enorme, PÉ-LARGO.</p>
+<br>
+<p class="character">PÉ-LARGO (CONT.)</p>
+<p class="dialogue">Está morto.</p>
+<br>
+<p class="character">MULTIDÃO DE ANIMAIS</p>
+<p class="dialogue">Ah, graças a Deus.</p>
+<p class="page-number">6</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 7 -->
+<div class="page">
+<p class="action">7134 se LEVANTA NOVAMENTE, como uma marionete assombrada.</p>
+<p class="action">RECOLHENDO seus braços e pernas: a visão é estranha, perturbadora.</p>
+<br>
+<p class="character">MULTIDÃO DE ANIMAIS (CONT.)</p>
+<p class="dialogue">AAAAAAAAAAАННΗΗΗΗΗΗΗ. O monstro!</p>
+<br>
+<p class="action">Os animais se ESPALHAM. Rozzum 7134 fica sozinha.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Alguém me encomendou?</p>
+<br>
+<p class="scene-heading">6 EXT. PICO DA MONTANHA - ANOITECER</p>
+<p class="action">Rozzum 7134 tem uma visão de 360 graus. ORBITA para descrever uma ilha: nenhuma outra terra ou estrutura à vista. Ela está PRESA em uma ILHA.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">...alguém?</p>
+<br>
+<p class="action">Nenhuma resposta.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Entrega mal sucedida. Retornar à fábrica. Ativando transmissor de retorno.</p>
+<br>
+<p class="action">Da cabeça de Rozzum 7134, uma haste esverdeada se ERGUE - O TRANSMISSOR.</p>
+<p class="action">UMA TEMPESTADE CAI. Rozzum 7134 LIGA o transmissor. Ele ACENDE enquanto a carga aumenta: vermelho... amarelo... VERDE!</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Três, dois, um--</p>
+<br>
+<p class="action">BOOM! Rozzum 7134 é atingida por um raio. Ela CAI do cume.</p>
+<p class="scene-heading">3A SQ0600 - O ACIDENTE</p>
+<p class="scene-heading">7 EXT. FLORESTA - NOITE</p>
+<p class="action">EM ROZZUM 7134, caída, imóvel e escura.</p>
+<p class="action">VISÃO DA ROZZUM: SOBRE UMA TELA PRETA - "INICIANDO SISTEMA. VIOLAÇÃO DO PAINEL DE ACESSO. PAINEL 10 ABERTO. PAINEL 28 ABERTO. PAINEL 11, 51, 32 ABERTOS.”</p>
+<p class="page-number">7</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 8 -->
+<div class="page">
+<p class="action">Rozzum 7134 LIGA. A cobertura de seu olho se ABRE COM UM CLIQUE para revelar--</p>
+<p class="action">Ela está sem um olho e uma mão.</p>
+<p class="action">EM SEU TORSO - uma infinidade de painéis de acesso se abrem. PANORÂMICA para encontrar o chão coberto de manuais de papel, pequenas ferramentas. INCLINA PARA CIMA para encontrar guaxinins fugindo com as coisas de Rozzum 7134.</p>
+<p class="action">Relâmpagos BRILHAM. Rozzum 7134 se apressa para recuperar todos os seus itens perdidos. Assim que ela os junta, outros guaxinins tentam pegá-los de volta.</p>
+<p class="action">Em uma disputa, um guaxinim acidentalmente DESCONECTA uma caixa preta. Seus contatos expostos FAÍSCAM com energia, e Rozzum 7134 leva um CHOQUE.</p>
+<p class="action">Entendendo o poder que ele empunha, o guaxinim SORRI e foge com sua nova arma.</p>
+<p class="action">Sentindo-se sobrecarregada, Rozzum 7134 tenta ACIONAR seu transmissor novamente.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Ativando transmissor de retorno. Três.</p>
+<br>
+<p class="character">GUAXININS</p>
+<p class="dialogue">Ooooooh.</p>
+<br>
+<p class="character">GUAXININS (CONT.)</p>
+<p class="dialogue">Bonito.</p>
+<br>
+<p class="character">GUAXININS (CONT.)</p>
+<p class="dialogue">Pega.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Dois...</p>
+<br>
+<p class="action">Atraídos pelo transmissor brilhante, os guaxinins ATACAM Rozzum 7134 para pegá-lo.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Um...</p>
+<br>
+<p class="action">Um guaxinim consegue ARRANCÁ-LO.</p>
+<br>
+<p class="character">GUAXINIM</p>
+<p class="dialogue">Ha!</p>
+<br>
+<p class="action">O guaxinim sobe DIRETO EM UM PINHEIRO, PERSEGUIDO pela horda de guaxinins e por Rozzum 7134.</p>
+<p class="page-number">8</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 9 -->
+<div class="page">
+<br>
+<p class="character">GUAXININS</p>
+<p class="dialogue">Volta aqui.</p>
+<br>
+<p class="action">Eles se aproximam do topo - a árvore VERGANDO sob o peso deles. Curvando-se para baixo, o topo da árvore pousa em uma saliência rochosa.</p>
+<br>
+<p class="character">GUAXINIM</p>
+<p class="dialogue">Esperem, parem! Não!</p>
+<br>
+<p class="action">Rozzum 7134 SE LEVANTA E PERSEGUE o transmissor.</p>
+<br>
+<p class="character">GUAXININS</p>
+<p class="dialogue">Não, não, não, não, não!</p>
+<br>
+<p class="action">Liberando o topo da árvore de seu peso, o tronco da árvore VOLTA à posição vertical, ARREMESSANDO uma centena de guaxinins para o céu noturno. Eles caem no oceano.</p>
+<br>
+<p class="character">GUAXINIM</p>
+<p class="dialogue">De novo!</p>
+<br>
+<p class="action">O guaxinim com o transmissor DESAPARECE em uma caverna. Momentos depois ele RECUA, SEM o transmissor. Rozzum 7134 ALCANÇA dentro da caverna para recuperá-lo, mas um enorme urso pardo, THORN, passa por cima dela.</p>
+<br>
+<p class="character">THORN</p>
+<p class="parenthetical">(sfx)</p>
+<p class="dialogue">Rosnando.</p>
+<br>
+<p class="action">Thorn ATINGE Rozzum 7134 no meio do peito. As garras cravam sulcos profundos - FAÍSCAS VOAM de suas juntas.</p>
+<p class="action">Rozzum 7134 RECUA, energia intermitente. Thorn se aproxima.</p>
+<p class="action">VISÃO DA ROZZUM: Uma confusão de árvores pontuada por flashes ofuscantes de relâmpagos.</p>
+<p class="action">Rozzum 7134 BATE em uma árvore. Ela ESCORREGA, ROLANDO para longe de Thorn, descendo a colina, derrubando pequenas árvores.</p>
+<p class="action">Rozzum 7134 jaz imóvel, emaranhada em galhos, coberta de lama. A chuva que diminui BATE em seu corpo de metal.</p>
+<p class="action">7134 ABRE seu painel principal. Dentro há equivalentes de ossos, artérias, pulmões e um coração. Tudo BRILHA com energia rastreadora, exceto o coração, que está escuro. Rozzum 7134 BATE nele. Alguns PULSOS, depois nada.</p>
+<p class="page-number">9</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 10 -->
+<div class="page">
+<p class="action">7134 FECHA o painel, encontra uma pena presa do lado de fora. Examinando-a, ela vê um rastro semelhante de penas saindo dos detritos abaixo dela. Ela gentilmente as segura, puxando uma asa mole à vista. A morte é abstrata para Rozzum 7134, ela não demonstra emoção.</p>
+<p class="action">Soltando a asa, ela cuidadosamente afasta os galhos para revelar um grupo de CASCAS DE OVOS QUEBRADAS.</p>
+<p class="action">7134 levanta fragmentos de casca, junta-os. Então algo chama sua atenção... Rozzum 7134 afasta algumas folhas para REVELAR... UM OVO INTACTO.</p>
+<p class="action">VISÃO DA ROZZUM: A varredura infravermelha revela um pássaro vivo lá dentro.</p>
+<p class="action">Ela o levanta, com muito cuidado.</p>
+<p class="scene-heading">4A SQ0700 - O OVO E A RAPOSA</p>
+<p class="scene-heading">8 EXT. VALE - MOMENTOS DEPOIS</p>
+<p class="action">Rozzum 7134 senta-se, considerando o ovo e seu transmissor.</p>
+<p class="action">7134 OLHA para o lado, olha de volta e vê que o ovo SUMIU.</p>
+<p class="action">A folhagem densa SE AGITA enquanto algo pequeno escapa.</p>
+<p class="action">VISÃO DA ROZZUM: Mudando para INFRAVERMELHO, Rozzum 7134 localiza a criatura, persegue-a.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Posso confirmar que isso é seu?</p>
+<br>
+<p class="action">O ovo está com uma raposa vermelha, FINK. Ele é astuto e escorregadio. Mesmo quando 7134 o pega pelo rabo, ele se livra.</p>
+<p class="action">Fink se abriga em um tronco. 7134 O PARTE com uma SERRA. Ela recupera o ovo, GUARDA-o em um compartimento de armazenamento.</p>
+<p class="action">Fink ABRE um painel traseiro, RECUPERA seu OVO.</p>
+<p class="action">Fink dispara para um matagal, um SORRISO MALICIOSO no rosto. Rozzum 7134 se aproxima: o mato TERMINA ABRUPTAMENTE e Rozzum 7134 CAI de um penhasco.</p>
+<p class="page-number">10</p>
+</div>
+<div class="page-break"></div>
+Entendido! Aqui está o próximo bloco de código HTML, continuando de onde paramos (aproximadamente da página 11 do OCR até a página 20).
+
+BLOCO 2 de HTML (Aproximadamente da Página 11 à 20 do OCR)
+<!-- INÍCIO DA PÁGINA 11 -->
+<div class="page">
+<p class="action">Fink sai para um galho, satisfeito: ele atraiu Rozzum 7134 para cá de propósito. A mão com cabo de Rozzum 7134 DISPARA PARA CIMA E AGARRA o galho. Rozzum 7134 PUXA seu braço estendido. SALTANDO SOBRE Fink, ela aterrissa de volta na beira do penhasco.</p>
+<p class="action">Surpreso, encurralado no galho e sem opções, Fink DEVOLVE o ovo.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Aqui está. Pegue.</p>
+<br>
+<p class="action">Quando Rozzum 7134 estende a mão para o ovo, Fink O ENGOLHE.</p>
+<p class="action">Rozzum 7134 AGARRA Fink pelo pescoço, APERTA o ovo para fora dele. O ovo VOA por cima da cabeça de Rozzum 7134. Fink PASSA CORRENDO entre as pernas dela, SALTA, PEGA o ovo no ar, e então ATERRISSA direto em cima de um porco-espinho.</p>
+<p class="action">Fink DEIXA CAIR o ovo. Rozzum 7134 o recupera intacto.</p>
+<p class="action">O porco-espinho RECUA, deixando Fink para lidar com uma cara cheia de espinhos. Ele não consegue arrancar nem um.</p>
+<p class="action">Para sua surpresa, Rozzum 7134 O LEVANTA e rapidamente usa uma ferramenta para arrancar os espinhos.</p>
+<p class="action">Ela o coloca de volta no chão.</p>
+<p class="action">Fink ROSNA e corre para se esconder.</p>
+<p class="scene-heading">5A SQ0800 - O OVO CHOCA</p>
+<p class="scene-heading">9 EXT. FLORESTA PROFUNDA - MAIS TARDE</p>
+<p class="action">EM ROZZUM 7134, um CHOCALHAR de seu interior. Ela remove o ovo. Examina-o.</p>
+<p class="action">'TRINCA' - o ovo tem uma RACHADURA FINA.</p>
+<p class="action">Rozzum 7134 gentilmente APERTA a casca para fechá-la. Mais rachaduras se formam. Rozzum 7134 FRENETICAMENTE tenta manter tudo junto. Por um momento, funciona.</p>
+<p class="action">O ovo EXPLODE. Um pequeno filhote de ganso senta-se na palma da mão de Rozzum 7134.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Peep?</p>
+<br>
+<p class="page-number">11</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 12 -->
+<div class="page">
+<p class="action">O novo filhote OLHA PARA CIMA, para os olhos azuis brilhantes de Rozzum 7134. Algo passa silenciosamente entre eles. O filhote encosta a testa em Rozzum 7134. Suas luzes subsuperficiais BRILHAM poderosamente.</p>
+<p class="action">O momento mágico é interrompido quando 7134, sem cerimônia, ARRANCA o filhote, colocando-o de volta no chão.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Esta tarefa foi concluída para sua satisfação?</p>
+<br>
+<p class="action">O filhote GRITA. FLASH. Rozzum 7134 COLA um adesivo em seu peito.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Numa escala de um a dez, onde dez é o mais satisfeito e um é o menos, como você avaliaria meu desempenho?</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Peep.</p>
+<br>
+<p class="action">Rozzum 7134 entrega um adesivo ao filhote.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Registrarei isso como um 'dez'.</p>
+<br>
+<p class="action">Rozzum 7134 tenta ativar seu transmissor.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Retornando à fábrica.</p>
+<br>
+<p class="action">O transmissor PISCA, instável.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Sinal fraco. Buscando terreno mais alto.</p>
+<br>
+<p class="action">Rozzum 7134 SE AFASTA ANDANDO.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">*peep peep peep</p>
+<br>
+<p class="action">O filhote CORRE atrás dela. Para cada passo que Rozzum 7134 dá, o filhote precisa correr trinta ou mais.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Você precisa de abrigo?</p>
+<br>
+<p class="action">Rozzum 7134 cobre o filhote com um pedaço de madeira. Enquanto ela anda, a madeira se ARRASTA atrás de 7134.</p>
+<p class="page-number">12</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 13 -->
+<div class="page">
+<p class="action">Rozzum 7134 entra na floresta. O filhote SALTA para o pé dela, pegando carona. Roz para, um DING! Seu compartimento central se abre.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Talvez dicas para planejar suas próximas férias?</p>
+<br>
+<p class="action">Ela coloca um panfleto de viagem no chão: FLÓRIDA - MAIS LITORAL DO QUE NUNCA - e continua seu caminho. O filhote CAI EM UM BURACO. Momentos depois, o filhote sai CAMBALEANDO para um galho ao lado de Rozzum 7134, SALTANDO para seu ombro. O filhote se ANINHA sob o queixo de Rozzum 7134.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Eu não entendo esta resposta.</p>
+<br>
+<p class="action">O transmissor de Rozzum 7134 acende.</p>
+<br>
+<p class="character">ROZZUM 7134 (CONT.)</p>
+<p class="dialogue">Sinal adquirido. Três, dois, um--</p>
+<br>
+<p class="action">O filhote BICA o transmissor. QUEBRA-O.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 1 (O.S.)</p>
+<p class="dialogue">Mãe, não estou me sentindo bem.</p>
+<br>
+<p class="scene-heading">6A SQ1000 - A TAREFA</p>
+<p class="action">Um barulho no mato. Roz INVESTIGA, vê uma mãe gambá, PINKTAIL, com quatro filhotes de gambá nas costas.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 1</p>
+<p class="dialogue">Se eu vomitar, vou levar todos vocês comigo.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 2</p>
+<p class="dialogue">A mamãe disse para não comer gafanhotos, bobo.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 3</p>
+<p class="dialogue">A Petúnia ficou na frente o dia todo.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 4</p>
+<p class="dialogue">O gambá mais bonito sempre vai na frente.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 3</p>
+<p class="dialogue">Tenta ser bonita com o meu rabo enfiado no seu olho.</p>
+<p class="page-number">13</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 14 -->
+<div class="page">
+<p class="action">A mão de Rozzum 7134 COLOCA o filhote de ganso nas costas de Pinktail.</p>
+<br>
+<p class="character">FILHOTES DE GAMBÁ</p>
+<p class="parenthetical">(de arrepiar)</p>
+<p class="dialogue">ІІІІІІІІІІІІІІІІІІІІІІІІІІII(EEEEEE EEEEEEEEEК).</p>
+<br>
+<p class="action">Pinktail se LEVANTA, DERRUBANDO os bebês.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Bartlett, para de enfiar seu rabo no olho da sua irmã.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 4</p>
+<p class="dialogue">Eu sou Rowan. Bartlett era da ninhada passada.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Tem certeza? Quem são todos vocês? Vão embora.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 4</p>
+<p class="dialogue">Nós somos seus filhos. Menos ele.</p>
+<br>
+<p class="character">FILHOTE DE GANSO</p>
+<p class="dialogue">*Peep</p>
+<br>
+<p class="action">Pinktail fica espantada ao ver que sua prole aumentou em um.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">É isso que eu ganho por dar uma volta. Onde está sua mamãe, carinha?</p>
+<br>
+<p class="action">Pinktail nota Roz ESPREITANDO-OS.</p>
+<br>
+<p class="character">PINKTAIL (CONT.)</p>
+<p class="dialogue">O monstro. AAAAAAAAAAAАНННННΗΗΗΗ.</p>
+<br>
+<p class="action">Pinktail e os bebês CAEM NO CHÃO.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 5</p>
+<p class="parenthetical">(dramático)</p>
+<p class="dialogue">*tosse tosse</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 4</p>
+<p class="parenthetical">(sussurro)</p>
+<p class="dialogue">Você tem que morrer mais rápido.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 5</p>
+<p class="dialogue">Meningite leva um tempo.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 6</p>
+<p class="page-number">14</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 15 -->
+<div class="page">
+<p class="dialogue">O que você escolheu?</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 7</p>
+<p class="dialogue">Raiva.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 8</p>
+<p class="dialogue">Combustão espontânea!</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 4</p>
+<p class="dialogue">Salada de beladona.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 9</p>
+<p class="dialogue">Sepse.</p>
+<br>
+<p class="character">FILHOTES DE GAMBÁ</p>
+<p class="dialogue">Ei! Eu escolhi sepse!</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Nenhum de vocês está fazendo isso direito. Nós conversamos sobre isso. Coisas mortas não precisam explicar por que estão mortas. Agora vamos ser mortos de verdade.</p>
+<br>
+<p class="character">FILHOTES DE GAMBÁ</p>
+<p class="parenthetical">(juntos)</p>
+<p class="dialogue">Desculpa, mãe.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ</p>
+<p class="parenthetical">(um pouco atrasado)</p>
+<p class="dialogue">Desculpa.</p>
+<br>
+<p class="action">Pausa.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 4</p>
+<p class="dialogue">Por que ainda não fomos mortos?</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Boa pergunta.</p>
+<br>
+<p class="action">Pinktail afasta a folhagem para investigar. Roz rolou para longe. O filhote de ganso sobe e SE EMPOLERA no ombro de Rozzum 7134. A visão encoraja Pinktail a se aproximar para investigar.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 2</p>
+<p class="dialogue">Foi bom te conhecer, mãe.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="parenthetical">(para o filhote de ganso)</p>
+<p class="dialogue">Tudo bem, está tudo bem. Está tudo bem.</p>
+<br>
+<p class="action">Pinktail ESPREITA a cavidade corporal de Rozzum 7134.</p>
+<p class="page-number">15</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 16 -->
+<div class="page">
+<br>
+<p class="character">PINKTAIL (CONT.)</p>
+<p class="dialogue">Uh, ei. Você aí dentro? Eu sou Pinktail.</p>
+<br>
+<p class="action">A cabeça de Rozzum 7134 emerge parcialmente de seu corpo.</p>
+<br>
+<p class="character">PINKTAIL (CONT.)</p>
+<p class="dialogue">Ok. Olá. Este filhote é seu?</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 3</p>
+<p class="dialogue">Uau.</p>
+<br>
+<p class="action">Rozzum 7134 entrega o filhote de volta para Pinktail.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Negativo. Esse filhote me persegue, emite ruído e torna tarefas simples mais complicadas ou impossíveis.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">É, eles fazem isso. Filhotes de ganso se apegam à primeira coisa que veem. Que seria você.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 6</p>
+<p class="dialogue">Parabéns.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">No que depender dele, você é a mãe dele agora.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Eu não tenho a programação para ser uma mãe.</p>
+<br>
+<p class="action">Rozzum 7134 se afasta.</p>
+<br>
+<p class="character">FILHOTES DE GAMBÁ (O.S.)</p>
+<p class="dialogue">Vai esmagar a gente!</p>
+<br>
+<p class="action">Pinktail a embosca, CAINDO de um galho.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Ninguém tem. A gente só inventa na hora.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Sem uma tarefa designada, minha próxima prioridade é retornar à fábrica.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Cuidar dele é sua tarefa agora.</p>
+<p class="page-number">16</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 17 -->
+<div class="page">
+<p class="action">Pinktail disse a palavra mágica: TAREFA. Um SOM DE SINO soa. A MÚSICA TOCA. Luzes rastreadoras se ativam:</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Tarefa adquirida. Modo de retorno adiado. Um Rozzum sempre completa sua tarefa.</p>
+<br>
+<p class="action">Enquanto Pinktail fala, seus filhotes MORDEM, MASTIGAM e BRIGAM uns com os outros. A mãe gambá usa sua cauda preênsil para separá-los, dar tapas, etc.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Você tem sorte de ter só um. Como mãe de sete--</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ (O.S.)</p>
+<p class="dialogue">AAAAAAAAAAAAAAAAAAAUGHHHHHH.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">...Seis bebês, é um trabalho em tempo integral.</p>
+<br>
+<p class="action">Ela pega um dos bebês.</p>
+<br>
+<p class="character">PINKTAIL (CONT.)</p>
+<p class="dialogue">Mas não é de todo ruim.</p>
+<br>
+<p class="action">O bebê VOMITA uma bola de pelos.</p>
+<br>
+<p class="character">PINKTAIL (CONT.)</p>
+<p class="dialogue">Só na maior parte.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Você tem alguma informação sobre como cuidar desta unidade?</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Todos eles precisam comer. Mas o seu precisa nadar e voar. Voar até o outono. Ele tem que deixar esta ilha antes do inverno, ou, como posso dizer isso delicadamente?</p>
+<br>
+<p class="character">FILHOTES DE GAMBÁ</p>
+<p class="dialogue">Aaaaaaaughhhhh.</p>
+<br>
+<p class="action">Os bebês gambá todos FINGEM UMA MORTE HORRÍVEL.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">É. Isso.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="page-number">17</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 18 -->
+<div class="page">
+<p class="dialogue">Comer. Nadar. Voar até o outono. Ou aaaaugh.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Paciência é a chave.</p>
+<br>
+<p class="action">Um bebê todo MASTIGADO aparece.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 4</p>
+<p class="dialogue">Está tudo bem mãe, estou vivo.</p>
+<br>
+<p class="character">PINKTAIL (O.S.)</p>
+<p class="parenthetical">(seca)</p>
+<p class="dialogue">Ah. Que bom. Bem, boa sorte.</p>
+<br>
+<p class="action">Os bebês SOBEM nas costas de Pinktail. Pinktail se afasta.</p>
+<br>
+<p class="character">FILHOTES DE GAMBÁ</p>
+<p class="dialogue">Adeus. Gostamos do seu novo bebê. Espero que ele não morra.</p>
+<br>
+<p class="scene-heading">7A SQ1100 - O FILHOTE FAMINTO</p>
+<p class="scene-heading">10 EXT. PRADO - MANHÃ</p>
+<p class="action">Rozzum 7134 PROJETA imagens de pessoas COMENDO, um diagrama de uma pessoa NADANDO e um avião a JATO VOANDO.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Comer. Nadar. Voar até o outono.</p>
+<br>
+<p class="action">Seu olhar se DESVIA da imagem para focar no filhote em seu ombro.</p>
+<p class="action">PONTO DE VISTA DE FINK - observando Rozzum 7134 e o filhote.</p>
+<p class="transition">CORTA PARA:</p>
+<p class="scene-heading">11 EXT. CLAREIRA - MAIS TARDE</p>
+<p class="action">Rozzum 7134 segura uma pinha em uma mão, o filhote na outra.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Coma.</p>
+<br>
+<p class="action">Ela tenta enfiar a pinha na boca do filhote. É GRANDE DEMAIS.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Hã.</p>
+<p class="page-number">18</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 19 -->
+<div class="page">
+<p class="scene-heading">12 EXT. BEIRA DA LAGOA - MAIS TARDE</p>
+<p class="action">SOBRE O FILHOTE ainda olhando amorosamente para Rozzum 7134, enquanto ela o EMPURRA para a lagoa flutuando em uma pinha.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Nade.</p>
+<br>
+<p class="action">O filhote CAMBALEIA de volta para Rozzum 7134, CAINDO da pinha e AFUNDANDO INSTANTANEAMENTE.</p>
+<p class="action">Paddler EMERGE, com o filhote em sua cauda.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Eu digo, mantenha seu lixo fora da minha lagoa. Isso é poluição. Sem mencionar assassinato.</p>
+<br>
+<p class="action">Ele LANÇA o filhote de volta.</p>
+<p class="action">O filhote se ANINHA de volta em seu cantinho sob o queixo dela.</p>
+<p class="scene-heading">13 EXT. CAMPO - MAIS TARDE</p>
+<p class="action">O filhote está no centro da mão de 7134. Rozzum 7134 retrai a palma da mão. Enquanto ele a encara amorosamente, ela o ATIVA.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Voe.</p>
+<br>
+<p class="action">Em um piscar de olhos, ele está a cem metros no ar. Um falcão de passagem o ARREBATA.</p>
+<p class="action">SOBRE O FILHOTE SORRIDENTE na palma de 7134. Ela está PERPLEXA sobre como proceder. CORRIGE para encontrar Fink, sentado bem ali.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Permita-me apresentar-me. Fink. Predador e especialista local em gansos. O que eu sei que você poderia usar agora.</p>
+<br>
+<p class="action">Rozzum 7134 ARREBATA o filhote para longe de Fink.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Você é a unidade destruidora.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Tudo bem, eu não vou comê-lo.</p>
+<p class="page-number">19</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 20 -->
+<div class="page">
+<p class="action">Rozzum 7134 IMEDIATAMENTE coloca o filhote de volta onde estava.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Você está louca, eu posso comê-lo.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Você disse que não comeria.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Você acredita em tudo que ouve?</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Sim.</p>
+<br>
+<p class="action">Os olhos de Fink se ARREGALAM.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Anotado.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Por que você roubou meu filhote?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Eu sou uma raposa. Eu faço coisas de raposa. Está na minha natureza.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Sua, programação.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Por que você me ajudou?</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Eu sou um robô. Eu faço coisas de robô. Eu busco tarefas e garanto que todas as necessidades essenciais tenham sido atendidas ou excedidas.</p>
+<br>
+<p class="action">Rozzum 7134 dá a Fink um tablet. Ele rola por imagens maravilhosas de piscinas, casas e GRANDES BANQUETES. Fink CUTUCA a tela, tentando pegar a comida.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Eu tenho algumas necessidades essenciais.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">*Gemidos de fome</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="page-number">20</p>
+</div>
+<div class="page-break"></div>
+Combinado! Aqui está o próximo bloco de código HTML, continuando de onde paramos (aproximadamente da página 21 do OCR até a página 30).
+
+BLOCO 3 de HTML (Aproximadamente da Página 21 à 30 do OCR)
+<!-- INÍCIO DA PÁGINA 21 -->
+<div class="page">
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Fink, como especialista local em gansos, como eu faço para-- (ela levanta o filhote) --comer, nadar, voar?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Achei que você nunca ia perguntar. Vamos começar com comer.</p>
+<br>
+<p class="scene-heading">14 EXT. FLORESTA - MAIS TARDE.</p>
+<p class="action">SOBRE VIEIRAS SENDO ASPIRADAS</p>
+<br>
+<p class="character">FINK (O.S.)</p>
+<p class="dialogue">Sim, sim, sim, bem aí.</p>
+<br>
+<p class="action">As vieiras frescas são dispostas ao redor de Bico-Brilhante. Elas coletivamente se FECHAM nele. Rozzum 7134 as ASPIRA para fora do filhote.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Eu não acho que estas são adequadas.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Espere, espere, deixa eu verificar.</p>
+<br>
+<p class="action">Roz dá o marisco para Fink, que os engole avidamente.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Ooh. Mmm. Parece bom para mim.</p>
+<br>
+<p class="action">SOBRE UM ENXAME DE ABELHAS</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Diga... você pode se fazer parecer um urso?</p>
+<br>
+<p class="action">Rozzum 7134 imita a pose de Thorn.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="parenthetical">(com a voz de Thorn)</p>
+<p class="dialogue">Estou aqui para um almoço de mel.</p>
+<br>
+<p class="action">As abelhas ENXAMEIAM sua cabeça.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Acredito que estou sob ataque.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Você está indo muito bem.</p>
+<br>
+<p class="action">7134 LEVANTA Fink até a colmeia vazia das abelhas.</p>
+<p class="page-number">21</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 22 -->
+<div class="page">
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Devo me preocupar?</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(de olho no mel)</p>
+<p class="dialogue">Desculpe, não consigo te ouvir.</p>
+<br>
+<p class="action">Fink se EMPANTURRA com o mel escorrendo e depois deixa cair um pouco para o filhote.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="parenthetical">(boca cheia)</p>
+<p class="dialogue">Aqui está, garoto.</p>
+<br>
+<p class="action">O filhote apenas fica grudado.</p>
+<p class="action">SALMÃO-REAL ROUBADO de Thorn.</p>
+<p class="action">EM ROZZUM 7134 CORRENDO de um Thorn FURIOSO. Rozzum 7134 carrega Fink, que está comendo o salmão.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Como os filhotes de ganso normalmente fazem isso?</p>
+<br>
+<p class="scene-heading">8A SQ1175 - O FRACOTE</p>
+<p class="scene-heading">15 EXT. PRAIA - NOITE</p>
+<p class="action">Rozzum 7134 usa um laser para COZINHAR mariscos a vapor.</p>
+<p class="action">Fink pega um marisco, devorando o conteúdo fumegante. Ele está inchado, grotesco, empanturrado até estourar.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Isso não está funcionando.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Está brincando? Tudo está funcionando perfeitamente.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="parenthetical">(gemendo de fome)</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(vendo o filhote faminto)</p>
+<p class="dialogue">Ah, sim, isso. Aqui.</p>
+<br>
+<p class="action">Ainda deitado de costas, Fink preguiçosamente ARRANHA uma superfície de seixos, expondo um enxame de larvas.</p>
+<p class="action">O filhote COME. Um sino dentro de Rozzum 7134 SOA.</p>
+<p class="page-number">22</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 23 -->
+<div class="page">
+<p class="action">VISÃO DA ROZZUM: O primeiro dos três ícones de filhote, o ÍCONE DE COMER, é marcado como CONCLUÍDO.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Fase um da tarefa concluída.</p>
+<br>
+<p class="action">ROZZUM 7134 RELAXA um pouco. SENTA-SE.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Agora, vamos ter que fazer tudo isso de novo amanhã. Tudo que esses pequenos fazem é comer.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Eu entendo.</p>
+<br>
+<p class="action">ROZZUM 7134 ABRE seu compartimento principal, expondo seu núcleo de energia escuro.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">O que é isso?</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Meu núcleo de energia. Está danificado. Sem ele eu dependo das minhas superfícies solares e baterias.</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(ainda comendo)</p>
+<p class="dialogue">É, você deveria cuidar disso.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Eu também preciso de um transmissor de reposição.</p>
+<br>
+<p class="action">Rozzum 7134 mostra a unidade quebrada para Fink.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Argh, eu tenho que fazer tudo? Quando encontrarmos outro robô, nós o matamos e pegamos seu transmissor.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Negativo. Os protocolos de inibição Rozzum previnem danos deliberados a outros.</p>
+<br>
+<p class="action">UM caranguejo PERSEGUINDO o filhote. Rozzum 7134 PEGA o caranguejo, manda-o embora.</p>
+<p class="page-number">23</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 24 -->
+<div class="page">
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Olha. Você precisa aprender como as coisas funcionam nesta ilha.</p>
+<br>
+<p class="action">FINK BLOQUEIA a saída do caranguejo, JOGA-O na água fervente.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Eu, o urso, todo mundo, estamos todos apenas tentando sobreviver. E bondade, não é uma habilidade de sobrevivência.</p>
+<br>
+<p class="action">Fink observa o filhote desajeitado. Rozzum 7134 considera também.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">É. Então, uh, como você conseguiu um filhote de ganso, afinal?</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Houve um acidente. Eu exterminei a família dele.</p>
+<br>
+<p class="action">Fink tapa as orelhas do filhote com as patas.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Para referência futura, você provavelmente vai querer guardar tudo isso para si mesma.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Entendido. Não mencionar família morta. Fink, quanto tempo você estima que levará para nadar e voar?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Nadar é fácil. Eu posso ensiná-lo do jeito que minha mãe me ensinou. Nade.</p>
+<br>
+<p class="action">Fink CHUTA o filhote para o oceano. Roz ESTENDE a mão para recuperá-lo.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Fink! Ele não vai aprender desse jeito.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Não se você continuar fazendo isso.</p>
+<br>
+<p class="action">Ele pula no ombro de Rozzum 7134.</p>
+<p class="page-number">24</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 25 -->
+<div class="page">
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Só entre nós, essa coisa toda pode não demorar tanto quanto você pensa. Seu filhote, ele não é exatamente normal.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Eu tenho um bebê com defeito?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ele é o que chamam de 'fracote'.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Um fracote.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">O fato é que, mesmo que a família inteira dele não tivesse sido morta, ele provavelmente não teria vivido muito. Apenas, eu não sei. Não se apegue muito ao garotinho, é só isso.</p>
+<br>
+<p class="action">Rozzum 7134 CONSIDERA.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Se você quiser, eu posso comê-lo agora mesmo e te poupar do sofrimento mais tarde.</p>
+<br>
+<p class="action">Fink BOTA o filhote na boca. Rozzum 7134 ENFIA a mão em sua garganta para RECUPERÁ-LO.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Negativo. Comer esta tarefa não é o mesmo que completá-la.</p>
+<br>
+<p class="action">Rozzum 7134 COLOCA o filhote em seu colarinho. Fink TENTA pegá-lo. 7134 GIRA o anel, mantendo o filhote longe das patas ansiosas de Fink.</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(tentando pegar)</p>
+<p class="dialogue">Então vamos fazer isso. Bem, se você não quer que eu ou qualquer outra pessoa o coma, você vai precisar de um lugar mais seguro do que aqui fora... (uma ideia surgindo) o que é uma ótima ideia! Novo projeto!</p>
+<br>
+<p class="action">Rozzum 7134 arrasta Fink para longe. Ele ARROTA.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="page-number">25</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 26 -->
+<div class="page">
+<p class="dialogue">É normal arrotar tanto assim?</p>
+<br>
+<p class="scene-heading">9A SQ1200 - O ABRIGO</p>
+<p class="scene-heading">16 EXT. BASE DA SEQUOIA - MOMENTOS DEPOIS</p>
+<p class="action">Rozzum 7134, Fink e o filhote passam por perto, com uma carga de madeira nos braços de Rozzum 7134. Eles passam por um CASTOR roendo uma SEQUOIA GIGANTE.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 2</p>
+<p class="dialogue">Essa coisa vai cair em você.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 7</p>
+<p class="dialogue">E te esmagar até virar geleia.</p>
+<br>
+<p class="character">ESQUILO</p>
+<p class="dialogue">Esse cara é maluco.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Quem é aquele?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Paddler? O motivo de chacota local. Passa todos os dias tentando derrubar a maior árvore da ilha. Ele é obcecado. Tipo você e sua neura com tarefas.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">A programação dele?</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(gritando para Paddler)</p>
+<p class="dialogue">Ei, Paddler. Você nunca vai terminar isso.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Derrubar não é o objetivo. O processo é a arte.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">E é isso que acontece com o seu cérebro quando você come madeira. Esquisitão.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">É? Bem, você vai engolir essas palavras, verme.</p>
+<br>
+<p class="scene-heading">17 EXT. ABRIGO DO PADDLER - MAIS TARDE</p>
+<p class="page-number">26</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 27 -->
+<div class="page">
+<p class="action">Roz pega o abrigo de Paddler.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Tem certeza que Paddler não vai se importar de pegarmos a casa dele emprestada?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ele não precisa saber.</p>
+<br>
+<p class="scene-heading">18 EXT. VALE DO ABRIGO - MAIS TARDE</p>
+<p class="action">Rozzum 7134 PROJETA uma cúpula compacta sobre o filhote.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Sério? Ele precisa de espaço para mim e minhas coisas.</p>
+<br>
+<p class="action">7134 AUMENTA a cúpula substancialmente.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Melhor. Agora, você pode fazer uma desse tamanho, certo?</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">Nenhuma tarefa é impossível para Rozzum Sete Um Três Quatro.</p>
+<br>
+<p class="character">FILHOTE (O.S.)</p>
+<p class="dialogue">Roz se-um-três-qua-tro.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Mas pode me chamar de Roz.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Roz. Roz Roz Roz.</p>
+<br>
+<p class="scene-heading">19 EXT. VALE DO ABRIGO - FIM DE TARDE</p>
+<p class="action">Roz EMPILHA PEDRAS. O filhote SALTA de pedra em pedra, fazendo daquilo uma brincadeira.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Roz! Roz! Roz!</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">De onde você vem que as coisas não comem umas às outras?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu não sei meu ponto de origem.</p>
+<p class="page-number">27</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 28 -->
+<div class="page">
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Bem, quem te fez?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Alguém me fez?</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Alguém me fez?</p>
+<br>
+<p class="action">Um grupo de esquilos RI do progresso de Roz.</p>
+<p class="action">Fink ATIRA um rato neles.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Hahahahah.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Hahahahah.</p>
+<br>
+<p class="character">ROZZUM 7134</p>
+<p class="dialogue">O humor é baseado na desgraça?</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Missortune. (N.T.: Tentativa de dizer "misfortune", desgraça)</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">É. Aqui. Tente.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">É!</p>
+<br>
+<p class="action">Fink afasta uma cortina de grama, mirando em um coelho.</p>
+<p class="action">Uma pinha em alta velocidade ATINGE Fink.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Não teve graça.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Não teve graça. Hahahahah.</p>
+<br>
+<p class="action">Roz tece galhos em velocidade relâmpago.</p>
+<p class="action">Fink joga um esquilo.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Argh. Esquilos.</p>
+<br>
+<p class="action">O filhote CORRE. Ele PEGA um galho pequeno, corre de volta, BATE no pé de Roz.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Sua participação ineficiente irá atrasar o processo.</p>
+<p class="page-number">28</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 29 -->
+<div class="page">
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Atrasar o processo. Eu vou ficar bem aqui. Um pouco triste, mas fora isso, tudo bem.</p>
+<br>
+<p class="action">O filhote se afasta, triste.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Só desta vez.</p>
+<br>
+<p class="action">Roz LEVANTA o filhote, permite que ele coloque seu galho. O filhote SORRI.</p>
+<p class="action">MAIS QUATRO CENAS de Roz deixando o filhote colocar galhos.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Perfeito.</p>
+<br>
+<p class="action">Eles admiram o abrigo finalizado.</p>
+<br>
+<p class="character">FILHOTE (CONT.)</p>
+<p class="dialogue">CASA?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Um pouco rústico.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Acho que sei o que está faltando.</p>
+<br>
+<p class="scene-heading">20 EXT. LITORAL - TARDE</p>
+<p class="action">Roz, Fink e o filhote procuram madeira na praia.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Então, como você vai chamá-lo?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu te designo como Filhote zero-zero-zero- um.</p>
+<br>
+<p class="action">Roz brilha orgulhosamente.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ok. Isso foi péssimo.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Isso foi péssimo.</p>
+<br>
+<p class="action">BOOM. Trovão ressoa sobre a praia.</p>
+<p class="page-number">29</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 30 -->
+<div class="page">
+<p class="scene-heading">21 EXT. FLORESTA - MAIS TARDE</p>
+<p class="action">Roz, Fink e o filhote se amontoam sob uma árvore para escapar da tempestade.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Você tem que aprender a inventar coisas. Vamos, encontre aquele 'AWOOOO' dentro de você.</p>
+<br>
+<p class="action">Roz ABRE um painel, ESPREITA para dentro.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Procurando. “A U I V O O O..."</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Aaaa uuu ooo ooo ooo--</p>
+<br>
+<p class="action">Fink NOTA a estranheza.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Achou alguma coisa?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Não.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Pode se divertir um pouco, só por uma vez?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">'Filhote zero-um-oito-seis.' Pronto. Viu o que eu fiz? A numeração dele está fora de sequência. 'Waaaaaaaaah.'</p>
+<br>
+<p class="action">Fink encara. Atira em um esquilo risonho.</p>
+<p class="action">SQ1300 - A HISTÓRIA DE NINAR</p>
+<p class="scene-heading">22 INT. ABRIGO - NOITE</p>
+<p class="action">Roz GRAVA imagens em um pedaço de madeira.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">O nome dele não pode ter números. É como se alguém nem gostasse dele.</p>
+<br>
+<p class="action">Roz coloca-o na lareira. Ela se afasta, revelando uma série de silhuetas: um ovo, o Bebê Bico-Brilhante e Fink.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Meu nome tem números.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Tem que ser pessoal.</p>
+<br>
+<p class="character">FILHOTE</p>
+<p class="dialogue">Pessoal.</p>
+<br>
+<p class="action">Roz examina seu filhote. A luz reflete em seu bico.</p>
+<p class="page-number">30</p>
+</div>
+<div class="page-break"></div>
+Certo, vamos para o próximo bloco do roteiro em HTML.
+
+BLOCO 4 de HTML (Aproximadamente da Página 31 à 40 do OCR)
+<!-- INÍCIO DA PÁGINA 31 -->
+<div class="page">
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Processando. Pessoal. Brilhante. Bico. Bico-Brilhante. Isso é satisfatório?</p>
+<br>
+<p class="action">Bico-Brilhante PIA de alegria e CORRE para Roz.</p>
+<br>
+<p class="character">BEBÊ BICO-BRILHANTE</p>
+<p class="dialogue">Bico-Brilhante. Processando... Bip bip bup bup. Satisfatório.</p>
+<br>
+<p class="action">UMA CHUVA LEVE bate no teto do abrigo.</p>
+<p class="action">Fink se acomoda em seu trono.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ah, sim, isso é perfeito. Ah, que delícia.</p>
+<br>
+<p class="action">UM RELÂMPAGO chama sua atenção para a porta.</p>
+<br>
+<p class="character">PADDLER (O.S.)</p>
+<p class="dialogue">Confortáveis, estamos?</p>
+<br>
+<p class="action">Olhando pela porta, um par de olhos BRILHA de volta. Paddler.</p>
+<br>
+<p class="character">PADDLER (CONT.)</p>
+<p class="parenthetical">(da escuridão)</p>
+<p class="dialogue">Esta sua casa? Você a copiou, é o meu design. Eu sei que foi você, e eu sei onde você mora.</p>
+<br>
+<p class="action">Paddler desaparece em um FLASH de relâmpago.</p>
+<p class="action">Trovão. Bico-Brilhante CORRE para se esconder atrás do pé de Roz.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ah, perfeito. Agora ninguém vai conseguir dormir.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Como resetamos o Bico-Brilhante?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Quando eu era pequeno, minha mãe me balançava para dormir. Assim.</p>
+<br>
+<p class="action">Fink pega uma pedra de tamanho médio acima de sua cabeça. Roz a ARRANCA dele.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Isso vai machucá-lo.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ei, eu saí muito bem. (depois) *suspiro* Você poderia contar uma história para ele, mas isso dá muito mais trabalho.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Como uma narrativa fictícia ajudará o Bico-Brilhante?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">As crianças precisam se sentir seguras e amadas e toda essa tralha.</p>
+<br>
+<p class="page-number">31</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 32 -->
+<div class="page">
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Uma história pode fazer isso?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Contar histórias é quase mentir, e eu minto para viver. Observe e aprenda. Só preencha as lacunas.</p>
+<br>
+<p class="action">Roz está cativada. Fink solta um LONGO SUSPIRO.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Deixa eu ver. Uma vez, havia, uh, esta ilha, com um pequeno filhote de ganso--</p>
+<br>
+<p class="character">BEBÊ BICO-BRILHANTE</p>
+<p class="dialogue">Bico-Brilhante?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">--e ele estava sozinho.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Porque o resto de sua família foi destruído--</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ainda não. (para Bico-Brilhante) E o que este pequeno filhote precisava, era uma mãe. Então ele olhou para as estrelas, e pediu à mais brilhante se ela poderia mandar uma de suas extras. O engraçado é que, há esta robô linda que por acaso estava sentada na beira daquela estrela. E ela o ouve.</p>
+<p class="dialogue">(MAIS)</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="parenthetical">(para Roz)</p>
+<p class="dialogue">Ok, agora.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">...O que é impossível, já que o som não viaja através do vácuo do espaço.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">(lançando um olhar para Roz) *suspiro* Mas ela ainda o ouviu. Porque ela estava ouvindo com uma parte diferente de si mesma. Uma parte que, até aquele momento, ela nem sabia que tinha. Seu coração.</p>
+<br>
+<p class="action">Roz está cativada, incerta se ela tem um.</p>
+<br>
+<p class="character">BEBÊ BICO-BRILHANTE</p>
+<p class="dialogue">Como minha mamãe veio até mim de tão longe?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Quem se importa?</p>
+<br>
+<p class="character">BEBÊ BICO-BRILHANTE</p>
+<p class="dialogue">Hã?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Quero dizer, ela está tentando te ver--</p>
+<br>
+<p class="character">BEBÊ BICO-BRILHANTE</p>
+<p class="dialogue">Eu?</p>
+<br>
+<p class="page-number">32</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 33 -->
+<div class="page">
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">--e cai daquela estrela e aterrissa na praia um pouco longe daqui. Mas ela aterrissa com muita força, e um monte de coisas que ela sabia simplesmente caíram.</p>
+<br>
+<p class="character">BEBÊ BICO-BRILHANTE</p>
+<p class="dialogue">Oh não!</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Então é um pouco estranho o que ela sabe e o que não sabe. Mas ela se lembra de uma coisa. Você. E quando ela finalmente te vê ela se sente...</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Obrigação esmagadora.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Com muita sorte de ser mãe.</p>
+<br>
+<p class="character">BEBÊ BICO-BRILHANTE</p>
+<p class="dialogue">Mamãe!</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">E, eu, não partirei até que tenha completado esta tarefa que me atrasou, me danificou e violou meus protocolos, potencialmente anulando minha garantia.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">O que é robô para, 'ela te ama muito '.</p>
+<br>
+<p class="action">Bico-Brilhante sorri e adormece.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">A história funcionou.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">(engasgando) Blech, argh. Preciso de uma bebida.</p>
+<br>
+<p class="action">Fink SALTA para o riacho. BEBE.</p>
+<p class="action">Roz observa Fink, que parece desconfortável.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Como você conta uma história sobre algo que você diz não saber nada a respeito?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Você vai precisar ser mais específica.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Amor.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">É, bem. Quando você cresce sem algo, você passa muito tempo pensando nisso.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Para conservar a energia da bateria, devo desligar até de manhã.</p>
+<br>
+<p class="action">Bico-Brilhante se realoca para seu lugar favorito perto do pescoço de Roz.</p>
+<p class="page-number">33</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 34 -->
+<div class="page">
+<p class="action">Roz DESLIGA.</p>
+<p class="action">SQ1375 - O CASAL ESTRANHO</p>
+<p class="action">Fink ENFIA a cabeça sob o braço de Roz.</p>
+<br>
+<p class="character">BEBÊ BICO-BRILHANTE</p>
+<p class="dialogue">Eu sinto falta dela quando ela dorme, também.</p>
+<br>
+<p class="scene-heading">23 INT. ABRIGO - MANHÃ</p>
+<p class="action">PANORÂMICA pela lareira, onde uma série de silhuetas cada vez maiores de Bico-Brilhante se juntaram à original.</p>
+<p class="action">DISSOLVE PARA:</p>
+<p class="scene-heading">24 EXT. BARRANCO DA FLORESTA - DIA</p>
+<p class="action">Brisas quentes de verão penteiam as árvores e a grama. SONS DE SERVOMOTOR precedem o AFASTAMENTO da grama revelando... BICO-BRILHANTE, andando/movendo-se roboticamente.</p>
+<p class="action">Ele se VIRA para um esquilo que passa, esticando o pescoço de uma forma levemente perturbadora.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Escaneando. Possível amigo animal avistado. Ativando protocolo de contato interespécies.</p>
+<br>
+<p class="character">ESQUILO</p>
+<p class="dialogue">*chik?</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">(sons de servomotor) *rrt, brrt viip rrrrt*</p>
+<p class="dialogue">Olá, Bonjour, Hujambo. Eu sou o Filhote zero um oito seis, mas você pode me chamar de Bico--</p>
+<br>
+<p class="character">ESQUILO</p>
+<p class="dialogue">AAAAAAAAAAАННННННННН!</p>
+<br>
+<p class="action">O esquilo FOGE.</p>
+<p class="action">OUTRO BARULHO e Roz SALTA à vista de quatro.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Eu esperava ter pelo menos um amigo até o verão. Mas todos eles só...</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Gritam e correm?</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Sim!</p>
+<br>
+<p class="page-number">34</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 35 -->
+<div class="page">
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu experimentei o mesmo fenômeno. Fink?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Sei lá. Nada de estranho com vocês dois.</p>
+<br>
+<p class="action">Roz SENTA e COÇA sua "orelha" com a pata traseira.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Obrigada.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Mostre-me, cervo!</p>
+<br>
+<p class="action">Roz se TRANSFORMA. Salta em um círculo.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Urso. Porco-espinho. Esquilo. Tartaruga/gambá. Lontra/alce.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Agora gambá.</p>
+<br>
+<p class="action">Roz ENCARA.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu não quero fazer o gambá.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Gambááááááá. Gambázinho, gambázinho, gambázinho!</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">*suspiro</p>
+<br>
+<p class="action">Roz se TRANSFORMA, RONCANDO como um pequeno gambá.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">BU!</p>
+<br>
+<p class="action">Roz EMITE uma fumaça amarela horrível.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="parenthetical">(tossindo)</p>
+<p class="dialogue">Como você faz isso?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu superaqueço minhas bobinas transdutoras de Fálio, depois vazo um pouco de fluido hidráulico nelas.</p>
+<br>
+<p class="page-number">35</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 36 -->
+<div class="page">
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">O superaquecimento dos transdutores tem algum efeito de drenagem nos módulos de refrigeração secundários?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Não se eu pré-resfriar os sensores de carga.</p>
+<br>
+<p class="action">Em um movimento bem estabelecido, Roz ESTENDE o braço, Bico-Brilhante SALTA, SOBE por suas seções giratórias como uma escada rolante, SALTA para seu ombro onde se ANINHA em sua clavícula GIRATÓRIA, que o gira lentamente para seu ponto favorito sob o queixo dela. Há uma clara alegria entre eles.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Dia exemplar para os testes de natação.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Dia exemplar para os testes de natação.</p>
+<br>
+<p class="action">Eles chegam ao topo de uma colina íngreme. Pinktail e seus bebês estão lá.</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(cumprimentando)</p>
+<p class="dialogue">Pinktail. Aperitivos.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Eles estavam entediados e queriam ver coisas afundarem.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 8</p>
+<p class="dialogue">A proximidade da morte--</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 1</p>
+<p class="dialogue">--Faz a vida brilhar com mais intensidade!</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 3</p>
+<p class="dialogue">É verdade.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 8</p>
+<p class="dialogue">É.</p>
+<br>
+<p class="action">VISÃO DA ROZ: BICO-BRILHANTE SOBE NO LANÇADOR.</p>
+<p class="action">Roz PROJETA um diagrama de um humano nadando.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Apêndices motores primários em posição de braçada inicial oposta.</p>
+<br>
+<p class="character">FILHOTES DE GAMBÁ</p>
+<p class="dialogue">Vamos gente, está acontecendo! Rápido, rápido! Vamos ver! Vai, vai, vai! Rápido! Eba!</p>
+<br>
+<p class="page-number">36</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 37 -->
+<div class="page">
+<p class="action">VISÃO DA ROZ: BICO-BRILHANTE SOBE NO LANÇADOR.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 2</p>
+<p class="dialogue">Ele vai se afogar?</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 8</p>
+<p class="dialogue">Ou ter hipotermia?</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 1</p>
+<p class="dialogue">Não, só o impacto provavelmente vai matá-lo.</p>
+<br>
+<p class="character">FILHOTES DE GAMBÁ</p>
+<p class="dialogue">É! Eba!</p>
+<br>
+<p class="action">Olhando para baixo da colina, Bico-Brilhante hesita.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Uh, sabe, de repente estou pensando que talvez eu devesse ficar com vocês neste inverno--</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Não.</p>
+<br>
+<p class="action">Fink EMPURRA Bico-Brilhante. Ele desliza até o lago. Ele DESLIZA na água por um momento, depois NADA. Ele está fazendo isso errado, como um humano em uma fantasia de ganso: usando as asas como braços em um movimento desajeitado. Há mais respingos do que natação, e a princípio parece que Bico-Brilhante pode estar em apuros.</p>
+<br>
+<p class="character">FILHOTES DE GAMBÁ</p>
+<p class="dialogue">É!</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 4</p>
+<p class="dialogue">Ele já morreu?</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="parenthetical">(gargarejando água)</p>
+<p class="dialogue">Ei, está funcionando. Acho que peguei o jeito.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Muito bem, Bico-Brilhante! Requisito de natação, cumprido.</p>
+<br>
+<p class="action">VISÃO DA ROZ: Seu HUD MARCA o segundo ícone do filhote.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 4</p>
+<p class="dialogue">Isso é afogamento.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Não, isso é natação.</p>
+<br>
+<p class="page-number">37</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 38 -->
+<div class="page">
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">É, obrigado, gente!</p>
+<br>
+<p class="action">Bico-Brilhante atravessa o lago, parecendo uma criatura se debatendo e ferida.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Talvez você pudesse limitar seu alcance para permanecer à vista.</p>
+<br>
+<p class="action">Bico-Brilhante DESLIZA mais para longe.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Roz. Ele precisa se tornar independente se vai migrar.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu prefiro que ele seja independente, mais perto de casa.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ele não vai morrer. Bem, provavelmente não vai morrer. É improvável que ele morresse, agora mesmo.</p>
+<br>
+<p class="action">Sem que Fink ou Pinktail vejam, Roz SOLTA sua mão, a envia nadando debaixo d'água atrás de Bico-Brilhante como um mini submarino.</p>
+<p class="action">SOBRE BICO-BRILHANTE CHAPINHANDO por alguns juncos enquanto Paddler constrói uma nova represa.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Você está morrendo? Faça um favor a todos e expire rio abaixo.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="parenthetical">(meio se afogando)</p>
+<p class="dialogue">Estou bem. Só nadando.</p>
+<br>
+<p class="action">A pequena mão PASSA NADANDO. Paddler aponta atrás de Bico-Brilhante.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Acho que preciso encontrar uma ilha que seja menos, estranha.</p>
+<br>
+<p class="action">A folhagem se afasta para revelar...</p>
+<p class="action">SQ1500 - O LAGO</p>
+<p class="page-number">38</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 39 -->
+<div class="page">
+<p class="scene-heading">25 EXT. LADO DISTANTE DO LAGO - CONTÍNUO</p>
+<p class="action">Bico-Brilhante vê outros gansos pela primeira vez. Centenas deles deslizam de um lado para o outro no lago.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Uau. Eles são eu. Eu sou, eles.</p>
+<br>
+<p class="action">Bico-Brilhante segue em direção aos outros gansos. Incapaz de ver para onde está indo, Bico-Brilhante BATE em outro ganso, SNOWDOWN.</p>
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Olá, Bonjour, Konnichiwa, Hujambo! Eu sou o Filhote--</p>
+<br>
+<p class="character">SNOWDOWN</p>
+<p class="parenthetical">(notando seu tamanho, instabilidade)</p>
+<p class="dialogue">Hum, você está, morrendo?</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Por que todo mundo pergunta isso? Vrrr ka-chunk. Estou nadando!</p>
+<br>
+<p class="action">Ainda instável, Bico-Brilhante TOMBA. Snowdown está juntando as peças.</p>
+<br>
+<p class="character">SNOWDOWN</p>
+<p class="dialogue">Não é, assim que se faz.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">É sim. Eu estudei o diagrama. Eu posso te ensinar se você quiser.</p>
+<br>
+<p class="character">SNOWDOWN</p>
+<p class="dialogue">Espere, você, você é ele. Você é aquela coisa de ganso criada por aquele monstro.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Monstro? Espere. Ganso... 'coisa?'</p>
+<br>
+<p class="character">SNOWDOWN</p>
+<p class="dialogue">Você é um grande motivo de curiosidade por aqui. Você soa tão, normal.</p>
+<br>
+<p class="action">Atrás de Bico-Brilhante, a pequena mão emerge. Aciona uma câmera como um periscópio.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Minhas curvas de aprendizado estão dentro dos parâmetros esperados e estou no caminho certo para amadurecer antes do outono.</p>
+<br>
+<p class="page-number">39</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 40 -->
+<div class="page">
+<br>
+<p class="character">SNOWDOWN</p>
+<p class="dialogue">Meio normal. Por que você está aqui? Aquela coisa morreu?</p>
+<br>
+<p class="action">De uma curva surgem três grandes machos, HONKINGTON, PECK, FEATHER.</p>
+<br>
+<p class="character">FEATHER</p>
+<p class="dialogue">Olha o que temos aqui.</p>
+<br>
+<p class="character">PECK</p>
+<p class="dialogue">Não, brinca. Ele vive.</p>
+<br>
+<p class="character">HONKINGTON</p>
+<p class="dialogue">E quase flutua.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Saudações, vejo que vocês também têm penas e asas. Talvez possamos compartilhar histórias de interesses comuns.</p>
+<br>
+<p class="action">Feather BICA Bico-Brilhante.</p>
+<br>
+<p class="character">HONKINGTON</p>
+<p class="dialogue">Não temos nada em comum com você.</p>
+<br>
+<p class="character">PECK</p>
+<p class="dialogue">O show de horrores é do outro lado do lago.</p>
+<br>
+<p class="action">Feather AGARRA a asa de Bico-Brilhante.</p>
+<br>
+<p class="character">FEATHER</p>
+<p class="dialogue">Você chama isso de asa?</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Ai. Isso cria uma resposta de dor.</p>
+<br>
+<p class="action">Peck VIRA Bico-Brilhante.</p>
+<br>
+<p class="character">PECK</p>
+<p class="dialogue">Tente nadar com os pés.</p>
+<br>
+<p class="character">HONKINGTON</p>
+<p class="dialogue">Você não pertence a este lugar.</p>
+<p class="page-number">40</p>
+</div>
+<div class="page-break"></div>
+
+Entendido, aqui está o próximo bloco de HTML para o seu roteiro.
+
+BLOCO 5 de HTML (Aproximadamente da Página 41 à 50 do OCR)
+<!-- INÍCIO DA PÁGINA 41 -->
+<div class="page">
+<br>
+<p class="character">FEATHER</p>
+<p class="dialogue">Vamos. Voe para longe.</p>
+<br>
+<p class="action">Os gansos RIEM.</p>
+<p class="action">Honkington SALTA sobre Bico-Brilhante, empurrando-o para debaixo d'água. Bico-Brilhante EMERGE, OFEGANTE.</p>
+<p class="action">Os gansos BICAM as penas de Bico-Brilhante.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Roz!</p>
+<br>
+<p class="action">A comoção levanta ondas. A mão é inundada, perdendo o sinal.</p>
+<p class="action">EM ROZ - preocupada.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Bico-Brilhante.</p>
+<br>
+<p class="action">Roz se arrasta pela folhagem próxima.</p>
+<p class="action">Vendo Roz, a maioria dos gansos se ESPALHA para longe do lago. Bico-Brilhante olha dos gansos voando para suas asas. Tem uma realização.</p>
+<br>
+<p class="character">GANSOS</p>
+<p class="dialogue">O monstro. Lá está! Está aqui. Coma os lentos e fracos, me deixem em paz.</p>
+<br>
+<p class="action">Bico-Brilhante é subitamente PUXADO PARA BAIXO.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Bico-Brilhante.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">É O Boca-de-Pedra. Tire ele daí.</p>
+<br>
+<p class="action">Bico-Brilhante EMERGE, OFEGANTE.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Roz-- (engasgando com água)</p>
+<br>
+<p class="action">Outro SPLASH enquanto o Boca-de-Pedra ATACA o ganso.</p>
+<p class="action">Roz se LANÇA em direção a Bico-Brilhante, mas então PARA de repente - seu pé está preso entre duas rochas. Ela PUXA sua perna para tentar se libertar, mas não adianta; ela está completamente imobilizada.</p>
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Roz! Rápido!</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Bico-Brilhante? Foque em mim. Agora nade, o mais rápido que puder.</p>
+<p class="page-number">41</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 42 -->
+<div class="page">
+<p class="action">Roz procura no fundo, pega uma pedra.</p>
+<p class="action">Roz JOGA a pedra. Bico-Brilhante DESVIA para a esquerda. A pedra atinge o local que Bico-Brilhante acabou de desocupar. O Boca-de-Pedra DESVIA.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Cabeça para baixo, agora!</p>
+<br>
+<p class="action">Roz lança outra pedra logo acima de Bico-Brilhante. O Boca-de-Pedra ESQUIVA, corre de volta para atacar - ele não vai errar desta vez.</p>
+<p class="action">Roz está sem pedras.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Oh não.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Ele vai me comer!</p>
+<br>
+<p class="action">O Boca-de-Pedra nada para perto, bem na cauda de Bico-Brilhante. Ele ABRE A BOCA.</p>
+<p class="action">A mão de metal de Roz PUXA o Boca-de-Pedra para baixo da superfície. Roz PEGA Bico-Brilhante. Acabou.</p>
+<p class="action">Roz MANCA em direção à margem, um pouco em choque, segurando Bico-Brilhante. Os outros gansos se aproximam.</p>
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Por que ele me atacou?</p>
+<br>
+<p class="character">HONKINGTON</p>
+<p class="dialogue">Porque você é um fracote.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Ele só queria fazer contato com sua própria espécie.</p>
+<br>
+<p class="action">Roz COLOCA Bico-Brilhante de volta na água.</p>
+<br>
+<p class="character">PECK</p>
+<p class="dialogue">Ele não é da nossa espécie.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Ele é 98 por cento compatível com a sua--</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Não, não sou. Vamos embora, mãe.</p>
+<br>
+<p class="character">FEATHER</p>
+<p class="dialogue">Espere. Você acha que essa coisa é sua mãe?</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Sim. Não. Eu não sei.</p>
+<p class="page-number">42</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 43 -->
+<div class="page">
+<br>
+<p class="character">PECK</p>
+<p class="dialogue">Essa coisa matou sua mãe. Todo mundo sabe disso.</p>
+<br>
+<p class="action">Isso atinge Bico-Brilhante com força.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Obrigado por falar tanto. Agora eu sei quem comer primeiro.</p>
+<br>
+<p class="action">Fink ATACA. Roz o PEGA pelo cangote.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Roz, lembre-se de como as coisas funcionam aqui.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Pare, Fink. Por favor. Vamos embora.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Espero que esta interação--</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Mãe. Pare.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu só pretendia--</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">ROZ.</p>
+<br>
+<p class="action">Bico-Brilhante se afasta NADANDO, humilhado. Roz sai do lago com Fink na mão.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Vejo todos vocês no jantar. Isso não acabou.</p>
+<br>
+<p class="action">Quando ela sai da água, vemos por que ela estava mancando: sua perna está faltando abaixo do joelho.</p>
+<p class="action">Paddler EMERGE, observa Roz partir.</p>
+<p class="action">SQ1600 - A CONFISSÃO</p>
+<p class="scene-heading">26 INT. ABRIGO - ANOITECER</p>
+<p class="action">A cúpula aconchegante está pesada com tensão. Roz mexe em seu pé recuperado, incapaz de reconectá-lo.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Como eu me tornei... isso? A verdade.</p>
+<br>
+<p class="action">Roz hesita, olha para Fink, que balança a cabeça lentamente.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Houve um acidente.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Você fez isso?</p>
+<p class="page-number">43</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 44 -->
+<div class="page">
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">.....sim.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Não foi culpa dela, garoto.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Por que você não me contou?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu, não pensei que a informação iria te ajudar.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Essa não é sua decisão. Não acredito quanto tempo eu acreditei nisso. Eu realmente pensei que você era minha família.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Você... pensou?</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Era tão óbvio. Eu me sinto tão estúpido.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu calculei mal. Eu deveria ter considerado suas ondas emocionais.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Você acha? Então foi só culpa? É por isso que você fez isso?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu--eu precisava de uma tarefa--</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Bem, que bom que pude te dar uma.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Os eventos que levaram a esta situação não foram intencionais.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Diga isso para minhas irmãs, meus irmãos. Minha mãe de verdade. Eles eram minha chance de ser normal.</p>
+<p class="dialogue">(MAIS)</p>
+<p class="page-number">44</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 45 -->
+<div class="page">
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Eles eram minha chance de nadar. De voar. O que eu sou, afinal?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Você nadou satisfatoriamente hoje e se continuar praticando--</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Eu ainda não vou pertencer.</p>
+<br>
+<p class="action">Isso atinge Roz profundamente.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu entendo.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Você não entende nada. Você não sente nada. Você não é minha mãe.</p>
+<br>
+<p class="action">Bico-Brilhante DERRUBA o ninho trançado de Roz de sua pequena base.</p>
+<p class="action">SQ1750 - O CEMITÉRIO DE ROBÔS</p>
+<p class="scene-heading">27 EXT. PRAIA - MAIS TARDE</p>
+<p class="action">Roz solta o ninho de Bico-Brilhante no oceano.</p>
+<p class="action">Ela nota uma caixa familiar na praia, agora coberta de algas.</p>
+<p class="action">Roz examina o que resta de sua caixa de transporte. Sua mão limpa algumas algas. Um logotipo arranhado da UNIVERSAL DYNAMICS brilha de volta. Ela pesca um manual Rozzum da caixa. Um brilho das poças de maré chama a atenção de Roz.</p>
+<p class="scene-heading">28 EXT. POÇAS DE MARÉ - MEIO-DIA</p>
+<p class="action">Roz pesca uma mão de robô das anêmonas. Compara-a com a sua - uma combinação. Roz encontra um torso Rozzum. Ela ansiosamente ABRE o painel principal. Água JORRA: o coração de fusão está morto. Seguindo um rastro de peças, ela é levada para uma ampla caverna. Um chão plano e empoçado reflete a luz do sol, tornando as altas paredes arqueadas azuis: um anfiteatro atlante.</p>
+<p class="action">Roz encontra uma cabeça como a sua.</p>
+<p class="action">EXAMINANDO-A, ela acidentalmente ABRE a bandeja traseira, revelando o processador esférico. Maravilhada com ele, ela FECHA a bandeja.</p>
+<p class="page-number">45</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 46 -->
+<div class="page">
+<p class="action">A cabeça LIGA - PROJETANDO um comercial da UNIVERSAL DYNAMICS e seus novos robôs ROZZUM:</p>
+<p class="scene-heading">29 EXT. PAISAGEM DE NUVENS - DIA</p>
+<p class="action">O logotipo da UNIVERSAL DYNAMICS espirra pela parede de rocha. Uma nave futurista mais leve que o ar desliza sobre a câmera. Mergulhando abaixo de nuvens rosas, uma cidade reluzente e abobadada é revelada abaixo.</p>
+<br>
+<p class="character">NARRADOR (VONTRA)</p>
+<p class="dialogue">Na Universal Dynamics, o design é a nossa paixão. Nossas comunidades circulam o globo, acolhendo todas as pessoas que sonham com uma vida pré-planejada onde cada necessidade foi antecipada, nenhum detalhe negligenciado.</p>
+<br>
+<p class="action">Um portal na cúpula se ABRE, acolhendo a nave. Ele arqueia sobre uma metrópole arrumada. Vemos bairros nítidos, estradas elevadas, estádios esportivos, e mira em um átrio aberto no 100º andar de um prédio iridescente.</p>
+<p class="action">Aterrando suavemente, passarelas se abrem, desembarcando famílias atraentes. Um menino é acompanhado por um cão robótico. NOTA: nenhum animal vivo está em evidência em qualquer lugar.</p>
+<br>
+<p class="character">NARRADOR (VONTRA) (CONT.)</p>
+<p class="dialogue">Este mundo poderia ficar melhor?</p>
+<br>
+<p class="action">Uma criança acidentalmente PERDE seu balão. Nenhum dos pais é rápido o suficiente para pegá-lo.</p>
+<p class="action">Então, uma mão de metal captura o barbante elusivo.</p>
+<br>
+<p class="character">UNIDADE ROZZUM</p>
+<p class="dialogue">Aqui está.</p>
+<br>
+<p class="character">NARRADOR (VONTRA)</p>
+<p class="dialogue">Ficou. Apresentando a linha Rozzum de robôs ajudantes.</p>
+<br>
+<p class="action">AMPLIA para ver um robô brilhante e arredondado: UMA UNIDADE ROZZUM. Ele dá um passo à frente para devolver o balão.</p>
+<p class="action">Outros Rozzums JOGAM TÊNIS com crianças, podam sebes.</p>
+<br>
+<p class="character">NARRADOR (VONTRA) (CONT.)</p>
+<p class="dialogue">Esses robôs são projetados para se encaixar perfeitamente em nossas comunidades. Até em suas casas!</p>
+<br>
+<p class="action">Um gráfico aparece na tela.</p>
+<p class="page-number">46</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 47 -->
+<div class="page">
+<br>
+<p class="character">NARRADOR (VONTRA) (CONT.)</p>
+<p class="dialogue">Um robô Rozzum para cada cinco humanos significa um aumento de quarenta por cento no tempo de lazer e na felicidade--</p>
+<br>
+<p class="action">A imagem PULA - vemos vislumbres de Rozzums fazendo coisas excitantes: passando roupas, preparando comida, limpando uma piscina, servindo bebidas em clubes.</p>
+<br>
+<p class="character">NARRADOR (VONTRA) (CONT.)</p>
+<p class="parenthetical">(com falhas)</p>
+<p class="dialogue">...Energia solar... ...amado por todos.. ...Roz-- ...está sempre ao sol. ...amado por todos. ... parte da família Universal Dynamics.</p>
+<br>
+<p class="action">A imagem CONGELA em uma cena ampla de uma cidade, um Rozzum em primeiro plano.</p>
+<p class="action">Roz TOCA a imagem na parede.</p>
+<p class="scene-heading">30 INT. ANFITEATRO - MAIS TARDE</p>
+<p class="action">O vídeo está em repetição, tocando silenciosamente nas paredes da caverna. PANORÂMICA POR TRÊS CABEÇAS PARCIAIS, UMA PILHA DE PÉS E MÃOS. SOBE A GRUA PARA ENCONTRAR UM ROZZUM PARCIALMENTE RECONSTRUÍDO sentado em frente a Roz. Ele tem uma cabeça, corpo, um braço e uma perna. Roz mexe na bandeja do processador, trocando diferentes núcleos.</p>
+<p class="action">Ela FECHA a porta da bandeja, bate gentilmente na lateral da cabeça. Seus olhos ACENDEM e ele se senta ereto.</p>
+<br>
+<p class="character">UNIDADE ROZZUM</p>
+<p class="dialogue">Olá. Bonjour. Hujambo-- ZZZZT-- ...parabéns pelo seu-- ZIZZZTT-- Robô da Universal Dynamics-- ZIZZZT ...Eu sou Rozzum seis dois seis dois.</p>
+<br>
+<p class="action">O Rozzum ESPIRRA água no rosto de Roz.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Seu nome não pode ter números. Eu vou chamá-lo de "Rummage".</p>
+<br>
+<p class="character">RUMMAGE</p>
+<p class="dialogue">Rummage está pronto para receber sua primeira tarefa.</p>
+<br>
+<p class="page-number">47</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 48 -->
+<div class="page">
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Sua primeira tarefa é me ajudar em minha tarefa atual.</p>
+<br>
+<p class="character">RUMMAGE</p>
+<p class="parenthetical">(fanfarra musical otimista)</p>
+<p class="dialogue">Tarefa adquirida. Um Rozzum sempre completa sua tarefa. É só pedir.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Suponha que uma tarefa não possa ser concluída?</p>
+<br>
+<p class="character">RUMMAGE</p>
+<p class="dialogue">O gerenciamento sequencial Rozzum garante a conclusão da tarefa em menos de--</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Refaça a frase. Eu tenho uma tarefa que se tornou impossível. Minhas respostas aos problemas dependem cada vez mais de soluções improvisadas. O processamento que costumava acontecer aqui--</p>
+<br>
+<p class="action">Roz aponta para seu processador.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Agora está vindo, mais daqui.</p>
+<br>
+<p class="action">Roz GESTICULA para seu núcleo de energia.</p>
+<br>
+<p class="character">RUMMAGE</p>
+<p class="dialogue">Você pode explicar novamente o que estamos fazendo?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu não sei. Estou apenas inventando coisas. Eu não sei o que estou fazendo e eu tenho que fazer. Eu tenho que fazer porque ele está contando comigo.</p>
+<br>
+<p class="action">Ela percebe que removeu a cabeça de Rummage.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Oh!</p>
+<br>
+<p class="action">Roz prende a cabeça de Rummage de volta no lugar.</p>
+<br>
+<p class="character">RUMMAGE</p>
+<p class="dialogue">Que tarefa poderia sobrecarregar o Alfa-113? (então) O Processador Alfa-113 representa a fusão de todo o conhecimento humano com o dispositivo de raciocínio mais poderoso já desenvolvido pela humanidade.</p>
+<br>
+<p class="page-number">48</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 49 -->
+<div class="page">
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu tenho um filho.</p>
+<br>
+<p class="action">UMA PAUSA</p>
+<br>
+<p class="character">RUMMAGE</p>
+<p class="dialogue">... Certo. (então) Posso fazer um diagnóstico?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu me sinto bem.</p>
+<br>
+<p class="character">RUMMAGE</p>
+<p class="dialogue">Você não deveria, sentir, absolutamente nada.</p>
+<br>
+<p class="action">Roz GIRA sua cabeça, trazendo um portal de dados à vista. Rummage SE CONECTA. As luzes de Roz BRILHAM um pouco. Rummage SE DESCONECTA como se tivesse tocado em algo quente. A repentinidade não passa despercebida por Roz.</p>
+<br>
+<p class="character">RUMMAGE (CONT.)</p>
+<p class="dialogue">Você sobrescreveu sua programação?</p>
+<br>
+<p class="action">Roz senta-se muito perto de Rummage, baixa a voz.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu tenho sobrescrito meu código por meses. Foi a única maneira de completar minha tarefa.</p>
+<br>
+<p class="character">RUMMAGE</p>
+<p class="dialogue">Isso é sério. Você está com defeito. Você está no lugar errado, e você se tornou a coisa errada.</p>
+<br>
+<p class="action">Rummage aciona seu transmissor.</p>
+<br>
+<p class="character">RUMMAGE (CONT.)</p>
+<p class="dialogue">Você deve retornar à fábrica. (oferecendo o circuito) Pegue isto. Eles vão te consertar. Sete um três quatro, é, lá que você pertence.</p>
+<br>
+<p class="action">Rummage desliga. Roz encara a tela congelada.</p>
+<p class="action">SQ1850 - A ESCOLHA</p>
+<p class="scene-heading">31 EXT. TOPO DA MONTANHA - FIM DE TARDE</p>
+<p class="action">Roz senta-se em silêncio, observando as nuvens.</p>
+<p class="page-number">49</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 50 -->
+<div class="page">
+<p class="action">Fink se aproxima.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Você precisa me avisar antes de desaparecer assim. Três coisas tentaram me comer no caminho até aqui.</p>
+<br>
+<p class="action">Ele alcança o topo.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Roz?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Nós estragamos tudo.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Bem, você estragou.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Você não é um especialista em gansos, é.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Eu sei o gosto que eles têm. É só isso.</p>
+<br>
+<p class="action">Roz coloca o transmissor na grama entre eles.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Isso é..?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Um transmissor funcionando. Ele vai chamar aqueles que me fizeram.</p>
+<br>
+<p class="action">Roz conecta o transmissor.</p>
+<p class="action">Fink SENTA-SE ao lado de Roz.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Então você vai sair daqui?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu descobri onde eu deveria estar. Eu vou me encaixar lá.</p>
+<p class="page-number">50</p>
+</div>
+<div class="page-break"></div>
+Ok, vamos para o próximo bloco de HTML!
+
+BLOCO 6 de HTML (Aproximadamente da Página 51 à 60 do OCR)
+<!-- INÍCIO DA PÁGINA 51 -->
+<div class="page">
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Não leve a mal, mas não tenho certeza se eu gostaria de ver o tipo de lugar em que você realmente se encaixa.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu acho que eles precisam de mim. E eles vão me consertar. Talvez haja alguém pequeno lá que precise da minha ajuda.</p>
+<br>
+<p class="action">Fink desvia o olhar.</p>
+<p class="action">Roz toca o local onde Bico-Brilhante costumava sentar-se quando era um bebê.</p>
+<p class="action">Sons de grasnidos chamam sua atenção para gansos adolescentes voando em formação de 'V'.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ah não...</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Aqueles são--?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">O tempo dele acabou. Bem, vamos, precisamos colocá-lo no ar.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu não acho que ele vai nos deixar ajudá-lo de novo.</p>
+<br>
+<p class="action">Roz PESA tudo. Ela GUARDA seu transmissor.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Não se preocupe, somos os únicos amigos dele. Ele não tem escolha, ele tem que dizer sim.</p>
+<br>
+<p class="action">SQ1900 - O ACORDO</p>
+<p class="scene-heading">32 EXT. JARDIM - MAIS TARDE</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Não.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">A mutação que te fez pequeno não deveria ter um efeito em sua capacidade de navegar no ar.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Algum de vocês sabe mais sobre voar do que sabiam sobre nadar?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Não.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Olha, Roz, qualquer que seja a tarefa que você acha que está fazendo, você terminou. Você pode simplesmente ir embora.</p>
+<p class="page-number">51</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 52 -->
+<div class="page">
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Uau. E depois de tudo o que fizemos por ele. Você vai deixar ele fazer isso?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Não.</p>
+<br>
+<p class="action">Roz ALONGA as pernas e passa por cima de Bico-Brilhante, aterrissando na frente dele.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Sua vida não é negociável.</p>
+<br>
+<p class="action">Bico-Brilhante olha ceticamente para Roz.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Se você estiver disposto a fazer isso, você pode voar para longe, e nós dois podemos ir para onde pertencemos.</p>
+<br>
+<p class="action">A atenção de todos se volta para os gansos que passam.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Você realmente acha que podemos fazer isso?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Um Rozzum sempre completa sua tarefa.</p>
+<br>
+<p class="action">Bico-Brilhante considera.</p>
+<p class="action">Roz DÁ ZOOM em um ganso, mapeando-o com seus scanners.</p>
+<p class="action">SQ2000 - MONTAGEM DE VOO</p>
+<p class="scene-heading">33 EXT. PRADO - MANHÃ</p>
+<p class="action">EM ROZ PROJETANDO esquemas de asas em uma parede de rocha, as batidas de asa animadas em um ciclo - um modelo para Bico-Brilhante seguir.</p>
+<p class="action">Tentando imitar a sequência animada, Bico-Brilhante corre pelo chão da floresta, pula... dá de cara no chão.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Você só precisa de mais velocidade.</p>
+<br>
+<p class="action">Roz estende a mão. Bico-Brilhante recua e depois, relutantemente, permite que Roz o pegue.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Pronto?</p>
+<br>
+<p class="page-number">52</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 53 -->
+<div class="page">
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Acho que tenho que estar.</p>
+<br>
+<p class="scene-heading">34 EXT. PRADO - MANHÃ</p>
+<p class="action">EM ROZ correndo pelo prado, Bico-Brilhante em seu ombro. Com a velocidade aumentada, Bico-Brilhante sente sustentação. Mas Roz TROPEÇA no chão irregular.</p>
+<p class="scene-heading">35 EXT. PRADO - NOITE</p>
+<p class="action">À luz dos faróis de Roz, ela move pedras.</p>
+<p class="action">DISSOLVE PARA:</p>
+<p class="action">Uma pista de pedras foi construída, com 150 metros de comprimento. Reta e plana como pode ser. Agora Roz pode correr mais rápido. Admirando seu trabalho, ela se VIRA, surpresa ao ver Paddler, de pé ao lado de um tronco que ele moldou cuidadosamente.</p>
+<p class="action">Roz FAZ um furo guia para um parafuso de rolamento. A perna é substituída.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu não sei o que dizer.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Bom.</p>
+<br>
+<p class="action">EM ROZ CORRENDO em sua nova perna. Bico-Brilhante DECOLANDO de seu ombro, uma linha segura firmemente em seu bico. Roz está empinando Bico-Brilhante como uma pipa.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="parenthetical">(bico cerrado na linha)</p>
+<p class="dialogue">Ok, agora.</p>
+<br>
+<p class="action">Roz corta a linha. Bico-Brilhante DESLIZA. Ainda instável, ele está no entanto exultante.</p>
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Estou no ar!</p>
+<br>
+<p class="action">Ele sobrevoa a beira do penhasco acima do oceano.</p>
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Eu não sei o que fazer agora!</p>
+<br>
+<p class="action">Uma árvore está à frente. Bico-Brilhante não tem ideia de como virar. Ele BATE em um esquilo.</p>
+<p class="page-number">53</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 54 -->
+<div class="page">
+<p class="action">Roz CORRE para pegar Bico-Brilhante enquanto ele CAI pelos galhos das árvores.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Roz.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Estou bem. De novo.</p>
+<br>
+<p class="action">Roz levanta Bico-Brilhante e sai. Bico-Brilhante e Fink notam gotas de fluido esverdeado deixadas onde Roz caiu.</p>
+<p class="scene-heading">36 INT. ABRIGO - NOITE</p>
+<p class="action">Bico-Brilhante olha para a sombra projetada de sua asa. Ajusta sua distância do fogo para fazê-la parecer maior.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Não adianta, elas são muito pequenas.</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(em voz baixa)</p>
+<p class="dialogue">Você não pode estar lá em cima com ele.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Então encontraremos alguém que possa.</p>
+<br>
+<p class="scene-heading">37 EXT. FENDA NO PENHASCO - MAIS TARDE</p>
+<p class="action">A cabeça de Roz SOBE à vista - Fink sentado em cima dela.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Está em casa?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Temos uma proposta.</p>
+<br>
+<p class="action">REVERSO em um par de olhos, brilhantes nas sombras.</p>
+<p class="scene-heading">38 EXT. PISTA - MAIS TARDE</p>
+<p class="action">Bico-Brilhante senta-se no ombro de Roz.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Um instrutor de voo? Que perdedor você desenterrou--</p>
+<br>
+<p class="action">Roz ESTENDE o braço oposto. Um pequeno pássaro PASSA VOANDO, VIRA e pousa. UM FALCÃO.</p>
+<p class="page-number">54</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 55 -->
+<div class="page">
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Conheça Thunderbolt.</p>
+<br>
+<p class="character">THUNDERBOLT</p>
+<p class="dialogue">Então, você acha que asas pequenas são uma decepção?</p>
+<br>
+<p class="action">Thunderbolt aciona uma asa como um canivete.</p>
+<br>
+<p class="character">THUNDERBOLT (CONT.)</p>
+<p class="dialogue">Asas pequenas são dentes. As garras do céu.</p>
+<br>
+<p class="action">Thunderbolt toca Bico-Brilhante com uma pena primária.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Essas são, coisas diferentes.</p>
+<br>
+<p class="character">THUNDERBOLT</p>
+<p class="dialogue">MOSTRE-ME SEUS DENTES.</p>
+<br>
+<p class="action">Assustado, Bico-Brilhante abre suas asas.</p>
+<br>
+<p class="character">THUNDERBOLT (CONT.)</p>
+<p class="dialogue">Lindo. Comece.</p>
+<br>
+<p class="action">Thunderbolt alça voo.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Lembre-se. Não há nada que ele possa fazer que você não possa!</p>
+<br>
+<p class="action">Bico-Brilhante segue Thunderbolt.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="parenthetical">(para Fink)</p>
+<p class="dialogue">Então, ele está seguro, certo?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Hm? Talvez.</p>
+<br>
+<p class="scene-heading">39 EXT. CAMPO - MAIS TARDE</p>
+<p class="action">MAIS ABERTO: Thunderbolt leva Bico-Brilhante por curvas largas. Depois mais apertadas.</p>
+<br>
+<p class="character">THUNDERBOLT</p>
+<p class="dialogue">Siga-me. Sua forma exige mais trabalho para voar reto, mas é mais fácil de virar. E mergulhar.</p>
+<br>
+<p class="action">Roz observa, depois planta uma ESTACA com um aro de casca de árvore. DESLIZA para revelar um rastro de estacas semelhantes.</p>
+<p class="page-number">55</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 56 -->
+<div class="page">
+<p class="scene-heading">40 EXT. LITORAL - MANHÃ</p>
+<p class="action">CENA DE CIMA na costa a uma milha de altura. O falcão PASSA VOANDO pela câmera, MERGULHANDO com as asas dobradas. Um segundo depois, Bico-Brilhante também passa voando.</p>
+<br>
+<p class="character">THUNDERBOLT</p>
+<p class="dialogue">Pronto?</p>
+<br>
+<p class="action">Eles seguram o mergulho, depois ABREM as asas e SOBEM, nivelando logo acima do chão.</p>
+<br>
+<p class="character">THUNDERBOLT (CONT.)</p>
+<p class="dialogue">Nada mal para um ganso.</p>
+<br>
+<p class="action">Thunderbolt guia Bico-Brilhante através da série de estacas e aros.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Uhuu!</p>
+<br>
+<p class="character">THUNDERBOLT</p>
+<p class="dialogue">Exatamente. De novo.</p>
+<br>
+<p class="action">Thunderbolt e Bico-Brilhante SOBEM.</p>
+<p class="action">SQ2100 - O GRANDE GANSO</p>
+<p class="scene-heading">41 EXT. PRAIA - ANOITECER</p>
+<p class="action">Roz observa Bico-Brilhante com Thunderbolt.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Você deveria ser elogiada.</p>
+<br>
+<p class="action">Roz se vira. Longneck, o ganso, está atrás dela.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Obrigada...?</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Longneck. Um dos líderes da próxima migração. Eu venho observando vocês dois há algum tempo.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Você é o único ganso que já se deu ao trabalho de ser civil conosco.</p>
+<br>
+<p class="page-number">56</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 57 -->
+<div class="page">
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Nós, gansos, somos um bando ranzinza, desconfiados de praticamente tudo. Mas pelo menos somos bons de conversa.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Sério?</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Não. Também somos chatos. Tudo o que fazemos é fofocar. Ouso dizer que Bico-Brilhante é o mais interessante entre nós, embora nenhum jamais admita isso.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Quando vocês partem?</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Em uma semana.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">O Bico-Brilhante consegue...?</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Resistência. Mantenha-o no ar. O dia todo. Da primeira luz ao anoitecer, seus pés não podem tocar o chão. Entendeu?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu entendo.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Bico-Brilhante nunca deveria ter chegado tão longe, você sabe disso. É mais perigoso para ele do que para qualquer outro. Mas ele tem uma chance, se onde suas asas terminam, seu coração puder pagar o saldo.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">O coração dele tem 48 milímetros.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Pelo que vi, o coração de Bico-Brilhante é muito maior por dentro do que por fora.</p>
+<br>
+<p class="action">Roz considera.</p>
+<br>
+<p class="character">LONGNECK (CONT.)</p>
+<p class="dialogue">Resistência. Depois conversamos.</p>
+<br>
+<p class="action">Longneck voa para longe.</p>
+<p class="action">DISSOLVE PARA:</p>
+<p class="page-number">57</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 58 -->
+<div class="page">
+<p class="action">SQ2200 - MONTAGEM DE VOO PT 2</p>
+<p class="action">BICO-BRILHANTE parado, Roz colocando pedras em suas asas.</p>
+<p class="action">BICO-BRILHANTE se esforçando, puxando Fink, Paddler e Pinktail rio acima em um tronco.</p>
+<p class="action">ROZ sopra ar em Bico-Brilhante como um túnel de vento para que ele possa praticar manobras aéreas. Bico-Brilhante está instável.</p>
+<p class="action">ROZ COM tigelas de comida, na chuva e pendurada em troncos de árvores, alimentando Bico-Brilhante no ar.</p>
+<p class="scene-heading">42 EXT. PRADO DO PENHASCO - ANOITECER</p>
+<p class="action">Roz e Fink observam Bico-Brilhante voando. A dor nas asas de Bico-Brilhante é evidente. Ele luta, mergulhando e subindo, mantendo-se no ar e fora do chão por pura força de vontade. Pinktail chega.</p>
+<p class="action">O sol está a centímetros de se pôr. Bico-Brilhante vacila, afundando em direção a Roz e Fink. Ele está perigosamente perto do chão.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Não desista!</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Vamos, garoto!</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Volte para o ar, onde é o seu lugar.</p>
+<br>
+<p class="action">O comportamento de Bico-Brilhante muda. Ainda pairando, ele pega uma das pedras de peso. Ele sobe: um ato de desafio à sua dor e exaustão. Bico-Brilhante plana para cima, encontrando a última luz no céu.</p>
+<p class="action">SOBRE FINK E ROZ olhando para Pinktail com surpresa.</p>
+<br>
+<p class="character">PINKTAIL (CONT.)</p>
+<p class="dialogue">Motivação gentil é uma habilidade de mãe. Você vai aprender.</p>
+<br>
+<p class="page-number">58</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 59 -->
+<div class="page">
+<p class="action">SOBRE LONGNECK virando a cabeça para ver um pequeno ganso iluminado brilhantemente contra as nuvens escuras. Ele SORRI.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Bom garoto.</p>
+<br>
+<p class="action">O sol SE PÕE. Bico-Brilhante ainda está no ar, voando. Ele solta a pedra, mergulha em um campo enevoado, agora escuro.</p>
+<p class="action">Duas luzes poderosas cortam a névoa... mais perto... mais perto... mais perto... uma pista de pouso surge... Bico-Brilhante ATERRISSA aos pés de Roz: as luzes eram seus olhos. Roz se vira, iluminando as árvores. Uma variedade de animais estava assistindo.</p>
+<p class="action">FIM DA MONTAGEM</p>
+<p class="action">SQ2300 - A MIGRAÇÃO</p>
+<p class="scene-heading">43 EXT. O GRANDE PRADO - PRÉ-AMANHECER</p>
+<p class="action">Centenas de gansos estão reunidos, circulando e grasnando. Roz, Bico-Brilhante e Fink entram na multidão. Os gansos lhes dão um amplo espaço.</p>
+<br>
+<p class="character">SNOWDOWN</p>
+<p class="dialogue">O que ele está fazendo aqui?</p>
+<br>
+<p class="character">HONKINGTON</p>
+<p class="dialogue">Ele acha que vai vir conosco?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">As coisas ainda estão estranhas com vocês dois?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Ainda estranhas.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="parenthetical">(dirigindo-se à multidão)</p>
+<p class="dialogue">Atenção a todos. A hora chegou novamente. Este voo tem milhares de milhas implacáveis. Ele nos moldou, e nos testou ao longo de milênios. Agora, juntem-se às suas famílias. E boa sorte.</p>
+<br>
+<p class="action">Longneck nota Roz e Bico-Brilhante.</p>
+<br>
+<p class="character">LONGNECK (O.S.) (CONT.)</p>
+<p class="dialogue">Ah hah! Aí estão vocês. Na hora certa. Olá, Bico-Brilhante.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Espere. Você sabe meu nome?</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Roz e eu nos conhecemos há muito tempo. (pisca para Roz) Bico-Brilhante, você tem uma jornada incrível pela frente. Eu te invejo, nada se compara a primeira migração de um ganso.</p>
+<br>
+<p class="page-number">59</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 60 -->
+<div class="page">
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Obrigado!</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Eu ficaria encantado se você se juntasse ao meu grupo. Já faz muito tempo que não tenho um jovem em minha formação. O que me diz?</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Eu prometo que vou acompanhar.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="parenthetical">(focando em Bico-Brilhante)</p>
+<p class="dialogue">Fique bem perto do meu lado direito. Não... esquerdo... quer dizer, este lado.</p>
+<br>
+<p class="action">Longneck abre uma asa gigantesca para esclarecer. Ele sente a tensão entre Bico-Brilhante e Roz.</p>
+<br>
+<p class="character">LONGNECK (CONT.)</p>
+<p class="dialogue">Este voo é um presente que Roz lhe deu.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Sim, eu entendo.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Não, você não entende. Você vê algum outro ganso aqui do seu tamanho? O acidente que matou sua família, te salvou.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Eu-- eu nunca pensei nisso dessa forma.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Engraçado, como a vida funciona.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Obrigada por cuidar do meu-- Por cuidar do Bico-Brilhante.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Adeus, Roz. Fico honrado em tê-la conhecido. Você é um crédito para qualquer espécie a que pertença.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Um pouco gasta, eu temo.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Eu diria que você brilha como nova.</p>
+<br>
+<p class="action">Longneck parte.</p>
+<p class="page-number">60</p>
+</div>
+<div class="page-break"></div>
+Combinado, aqui está o próximo bloco de HTML para o seu roteiro.
+
+BLOCO 7 de HTML (Aproximadamente da Página 61 à 70 do OCR)
+<!-- INÍCIO DA PÁGINA 61 -->
+<div class="page">
+<br>
+<p class="character">LONGNECK (O.S.) (CONT.)</p>
+<p class="dialogue">O que você está esperando, Hortensia? Esta migração não vai voar sozinha.</p>
+<br>
+<p class="action">De repente, gansos sobem ao ar ao redor deles. Embora soubessem que aconteceria, ainda pega Roz e Bico-Brilhante de surpresa. Ambos sentem subitamente a necessidade de dizer algo, mas o tempo acabou. O céu está se enchendo de asas batendo, e o prado já parece vazio.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Bem. Acho que está na hora.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Sim.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Você vai estar aqui quando eu voltar?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Não.</p>
+<br>
+<p class="action">Bico-Brilhante tem muito mais a dizer, mas Roz o interrompe.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Estou feliz que você está indo para onde pertence.</p>
+<br>
+<p class="action">O tempo acabou. Bico-Brilhante precisa de conexão. Algo.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Roz, eu-- eu, uh--</p>
+<br>
+<p class="character">LONGNECK (O.S.)</p>
+<p class="dialogue">Bico-Brilhante.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Eu-- eu poderia usar um impulso.</p>
+<br>
+<p class="action">Roz sabe que ele não precisa.</p>
+<p class="action">Cheia de uma alegria súbita e inesperada, ela levanta Bico-Brilhante até o ombro, onde ele se sentava quando era um bebê. Onde ele voou pela primeira vez. Rangendo com o desgaste, Roz faz o seu melhor para parecer nova.</p>
+<p class="page-number">61</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 62 -->
+<div class="page">
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ei, garotinho. Voe como você. Não como eles.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Eu vou. Tchau Fink. Obrigado.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Pronto?</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Acho que tenho que estar.</p>
+<br>
+<p class="action">Enquanto os gansos giram ao redor deles, Roz CORRE. Mais rápido do que nunca. Bico-Brilhante ABRE suas asas.</p>
+<p class="action">Bico-Brilhante DECOLA. Roz para na beira do prado. Observa Bico-Brilhante desaparecer sobre as copas das árvores. Roz está de repente sozinha. Fink a alcança.</p>
+<p class="action">Roz está congelada. Pensamentos acelerados.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Roz?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu--</p>
+<br>
+<p class="action">Roz de repente DISPARA. Indiferente aos danos, ela ATRAVESSA a floresta, arranhando e amassando seu exterior.</p>
+<p class="action">Alcançar o ponto mais alto da costa não parece longe o suficiente. Roz AGARRA o tronco de um pinheiro solitário para se apoiar, INCLINA-SE sobre o oceano, PROCURANDO no ar.</p>
+<p class="action">Lá em cima, ela o encontra. Um pequeno ponto, ficando menor a cada segundo que passa.</p>
+<p class="action">Bico-Brilhante encontra seu lugar na formação.</p>
+<p class="action">EM LONGNECK virando a cabeça para ver Roz atrás e abaixo. Um sorriso cruza seu bico.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Bico-Brilhante. Siga-me.</p>
+<br>
+<p class="action">Roz vê a formação de Bico-Brilhante se afastar das outras. Ela desce, rola para bombordo. Roz percebe que eles estão circulando de volta, por ela.</p>
+<p class="action">Longneck faz um voo rasante, perto, baixo e rápido. Por um momento precioso, os olhos de Roz e Bico-Brilhante se encontram.</p>
+<p class="action">Outro instante, eles se foram. Subindo.</p>
+<p class="page-number">62</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 63 -->
+<div class="page">
+<p class="action">SQ2350 - O SINAL</p>
+<p class="scene-heading">44 EXT. PENHASCO - MOMENTOS DEPOIS</p>
+<p class="action">Fink encontra Roz sentada na beira do penhasco. Ele se aproxima.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Deve ser um alívio.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Sim. Bico-Brilhante está onde ele pertence. E agora você pode retornar à sua vida solitária de lutar para sobreviver em uma ilha onde tudo quer te matar e comer.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">É. E você pode ir para aquele lugar que você nunca esteve e não sabe o que vai acontecer com você.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Sim.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Sim! Então, tudo bem.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Tudo bem.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Incrível, até.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Incrível. Incrível...</p>
+<br>
+<p class="action">UMA PAUSA. Uma brisa fria ABRE um painel solto em Roz.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Não que isso importe, mas quem disse que você precisa ir embora?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Não tenho certeza. Eles, eu acho.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Sua, programação.</p>
+<br>
+<p class="action">Roz ACENA COM A CABEÇA.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Bem, hora de eu me esconder para o inverno.</p>
+<br>
+<p class="page-number">63</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 64 -->
+<div class="page">
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Fink?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">A menos que você queira ficar. Porque poderíamos passar o tempo e fazer coisas.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Como você sabe se ama, algo? Alguém?</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(esperançoso)</p>
+<p class="dialogue">Se você ama, provavelmente deveria dizer a eles.</p>
+<br>
+<p class="action">UMA PAUSA.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">E se for tarde demais?</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(arrasado)</p>
+<p class="dialogue">Eu não saberia.</p>
+<br>
+<p class="action">Outra PAUSA.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Fink?</p>
+<br>
+<p class="action">Roz se VIRA, ansiosa. Fink SUMIU.</p>
+<p class="scene-heading">45 INT. ABRIGO - MAIS TARDE</p>
+<p class="action">Roz esculpe mais uma silhueta no gráfico de crescimento: um ganso voador.</p>
+<p class="scene-heading">46 EXT. CAMPO - MAIS TARDE</p>
+<p class="action">Roz atravessa a montanha.</p>
+<p class="scene-heading">47 EXT. TOCA - CONTÍNUO</p>
+<p class="action">Fink limpa a abertura, rasteja para dentro.</p>
+<p class="scene-heading">48 INT. TOCA PROFUNDA - CONTÍNUO</p>
+<p class="action">Fink se acomoda em sua cama de musgo e folhas.</p>
+<p class="page-number">64</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 65 -->
+<div class="page">
+<p class="scene-heading">49 EXT. FLORESTA - CONTÍNUO</p>
+<p class="action">Roz passa por Chitchat e outros animais fazendo os preparativos finais para seu sono de inverno.</p>
+<p class="action">Thorn está muito ocupado fechando sua caverna para se preocupar em perseguir Roz.</p>
+<p class="scene-heading">50 EXT. PICO DA MONTANHA - ANOITECER</p>
+<p class="action">Roz alcança o cume da ilha. Enquanto o vento frio se fortalece, Roz aciona seu transmissor.</p>
+<p class="scene-heading">51 EXT. PICO DA MONTANHA - CONTÍNUO</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Rozzum sete um três quatro. Tarefa concluída. Ativando transmissor de retorno em três, dois, um.</p>
+<br>
+<p class="action">AFASTA para a tempestade que se adensa. UMA LUZ VERDE PISCA</p>
+<p class="action">SQ2375 - A JORNADA</p>
+<p class="scene-heading">52 INT. CENTRO DE CONTROLE DA UNIVERSAL DYNAMICS - CONTÍNUO</p>
+<p class="action">Bancos de telas brilhantes chamam a atenção de humanos e robôs, enquanto eles orquestram a dança de alta tecnologia da cidade moderna que vimos na projeção da caverna.</p>
+<p class="action">Uma tela em primeiro plano pisca uma mensagem.</p>
+<p class="action">ALARME AUTOMATIZADO Sinal de socorro recebido. Mapeando localização.</p>
+<p class="transition">CORTA-SECO PARA:</p>
+<p class="scene-heading">53 EXT. BAÍA DE SÃO FRANCISCO - DIA</p>
+<p class="action">Os gansos arqueiam sobre a água, uma camada de nuvens irregulares abaixo deles.</p>
+<p class="action">Longneck percebe Bico-Brilhante olhando para o lado.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Algo em sua mente?</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Esqueci de dizer algo antes de partir.</p>
+<br>
+<p class="page-number">65</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 66 -->
+<div class="page">
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Talvez eles tenham ouvido de qualquer maneira. Às vezes os corações têm suas próprias conversas.</p>
+<br>
+<p class="scene-heading">54 EXT. NEVASCA - NOITE</p>
+<p class="action">Os gansos lutam para manter sua formação no meio de um vendaval. Ele chama para sua ala.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Precisamos descer, encontrar abrigo enquanto isso passa. Fiquem perto.</p>
+<br>
+<p class="action">Planando para baixo, um brilho quente aparece diante do bando.</p>
+<br>
+<p class="character">LONGNECK (CONT.)</p>
+<p class="dialogue">Lá. Sigam-me.</p>
+<br>
+<p class="action">Longneck se APROXIMA de uma enorme cúpula. Sua superfície transparente exibe um oásis quente lá dentro.</p>
+<br>
+<p class="character">LONGNECK (CONT.)</p>
+<p class="dialogue">Vamos.</p>
+<br>
+<p class="action">Longneck se inclina em direção a uma enorme abertura de ventilação de um lado. Ele PASSA por ela, por enormes pás de ventilador, e entra em um sereno campo de milho. Quando os gansos pousam, Longneck os incita a se esconderem.</p>
+<br>
+<p class="character">LONGNECK (CONT.)</p>
+<p class="parenthetical">(sussurrando)</p>
+<p class="dialogue">Fiquem escondidos. Podemos descansar aqui até o pior passar. Ruído ao mínimo, por favor. Honkington, pare de bicar tudo.</p>
+<br>
+<p class="action">Bico-Brilhante se aproxima de alguns gansos. Eles rejeitam sua companhia.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">As migrações são cansativas, hein? É. Todos eles me odeiam.</p>
+<br>
+<p class="action">Bico-Brilhante forrageia sozinho. Então algo familiar chama sua atenção - um pé metálico dourado passando.</p>
+<p class="action">Bico-Brilhante se aproxima cautelosamente e espia o que parece ser Roz! Bico-Brilhante SAI DO ESCONDERIJO e SEGUE o robô.</p>
+<p class="action">Ele arrisca...</p>
+<p class="page-number">66</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 67 -->
+<div class="page">
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Roz? Roz. O que você está fazendo aqui? Estou tão feliz em te ver. Tinha algo que eu precisava te dizer, mas não deu tempo. Roz, eu...</p>
+<br>
+<p class="action">Outro Rozzum chega. Bico-Brilhante percebe seu erro.</p>
+<p class="scene-heading">55 INT. SALA DE CONTROLE DA CÚPULA - CONTÍNUO</p>
+<p class="action">Na tela, BICO-BRILHANTE GRASNA sinceramente para o ROZZUM.</p>
+<p class="action">Um HUMANO percebe. Ativa um protocolo de resposta de emergência.</p>
+<p class="action">SOBRE BICO-BRILHANTE percebendo que algo está errado. Ele dá um passo para trás - tarde demais. Os olhos do Rozzum piscam em VERMELHO. Pelos campos, mais Rozzums se aproximam, olhos brilhando em vermelho.</p>
+<p class="action">ALARME AUTOMATIZADO Infestação animal. Infestação animal.</p>
+<p class="action">NOS CAMPOS - Rozzums perseguem os gansos, agarrando-os e pegando-os.</p>
+<br>
+<p class="character">UNIDADES ROZZUM</p>
+<p class="dialogue">Tarefa adquirida!</p>
+<br>
+<p class="action">Os gansos se ESPALHAM pelo ar.</p>
+<p class="action">O Rozzum AGARRA Bico-Brilhante, que foge.</p>
+<p class="action">SOBRE LONGNECK olhando impotente para o emaranhado de pássaros no ar.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Por favor, todos, encontrem suas formações. Controlem-se. Puxa, não adianta.</p>
+<br>
+<p class="action">Longneck espia Bico-Brilhante, mancando, impassível com o barulho enquanto os Rozzums correm tentando encurralar os gansos.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Esperem! Rozzums não podem machucar vocês! Seus protocolos de inibição previnem conflito deliberado ou dano a outros.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Você não tem medo deles. Você cresceu com essas coisas.</p>
+<br>
+<p class="page-number">67</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 68 -->
+<div class="page">
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Uau, uau, uau, eu não entendo.</p>
+<br>
+<p class="action">Longneck indica a nuvem caótica de gansos.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Eles estão em pânico. Você não está. Agora nossa única chance é ser liderado por alguém que não pensa como um ganso. Siga-me.</p>
+<br>
+<p class="character">UNIDADES ROZZUM</p>
+<p class="dialogue">Tarefa adquirida!</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Talvez devêssemos pensar sobre isso!</p>
+<br>
+<p class="action">Longneck alça voo, seguido por Bico-Brilhante. Eles sobem na nuvem de pássaros.</p>
+<p class="action">Os gansos passam voando por uma aeronave pilotada por Rozzums.</p>
+<p class="action">ALARME AUTOMATIZADO Navegação comprometida.</p>
+<p class="action">À medida que a situação escala, um tipo diferente de robô emerge - um RECO.</p>
+<p class="action">O grande robô não é humanoide. Em vez disso, parece mais militar em seu tamanho, forma e postura. Ele brande uma arma, mira no bando. ATIRA.</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Vou fazer com que eles te sigam. Quando o fizerem, guie-os para fora. Peck, Honkington, fiquem atrás de nós.</p>
+<br>
+<p class="action">Os gansos formam uma formação atrás de Bico-Brilhante.</p>
+<br>
+<p class="character">LONGNECK (CONT.)</p>
+<p class="dialogue">Agora, Bico-Brilhante, assuma a liderança!</p>
+<br>
+<p class="action">Bico-Brilhante foca no Reco armado.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">É, por que não. Ok. Não há nada que eu possa fazer que você não possa. Lá vamos nós!</p>
+<br>
+<p class="action">Bico-Brilhante sobe, com força. O bando segue sua liderança. O tiro passa por baixo.</p>
+<p class="page-number">68</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 69 -->
+<div class="page">
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Curva fechada! Vamos! Mergulho! Agora, suba! É isso!</p>
+<br>
+<p class="character">LONGNECK</p>
+<p class="dialogue">Hah. Fico feliz por ter vivido o suficiente para ver isso. Vou te comprar algum tempo.</p>
+<br>
+<p class="action">Longneck se afasta do bando principal.</p>
+<br>
+<p class="character">LONGNECK (CONT.)</p>
+<p class="parenthetical">(para o bando)</p>
+<p class="dialogue">Sigam Bico-Brilhante. Não esperem por mim.</p>
+<br>
+<p class="action">Longneck cede sua posição para Bico-Brilhante, que empurra o bando por uma série de subidas, mergulhos e curvas apertadas, frustrando a mira do Reco.</p>
+<p class="action">Bico-Brilhante DOBRA as asas, CAI EM QUEDA LIVRE. Os gansos seguem.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Mantenham o ritmo.</p>
+<br>
+<p class="action">Um tiro passa longe, soltando um painel da cúpula.</p>
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">É isso. Mais rápido. Depressa. Vamos.</p>
+<br>
+<p class="action">NO RECO - mirando no bando em espiral. Longneck MERGULHA, paira na frente da arma, bloqueando seu próximo tiro.</p>
+<p class="action">EM BICO-BRILHANTE raspando na parede da cúpula.</p>
+<p class="action">Virando rapidamente, Bico-Brilhante aponta o bando para o painel aberto.</p>
+<p class="action">UM TIRO ECOA</p>
+<p class="transition">CORTA PARA:</p>
+<p class="action">SQ2400 - A TEMPESTADE DE INVERNO</p>
+<p class="scene-heading">56 INT. ABRIGO - NOITE</p>
+<p class="action">ROZ SENTA-SE como se estivesse acordando de um pesadelo. Tudo está silencioso, escuro.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Bico-Brilhante?</p>
+<br>
+<p class="action">O rosto assustado de Fink entra em foco.</p>
+<p class="page-number">69</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 70 -->
+<div class="page">
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">AAАААААН!</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Fink?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Roz? Roz! O que você está fazendo aqui?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu, posso ter desligado o transmissor. Mesmo que Bico-Brilhante não me queira aqui, eu precisava saber se ele conseguiu.</p>
+<br>
+<p class="action">Roz ACENDE um fogo na lareira. Fink fica feliz em ver Roz.</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(se aquecendo)</p>
+<p class="dialogue">Quebrando as regras? Pensei que você tinha que fazer o que eles te diziam.</p>
+<br>
+<p class="action">Roz DÁ DE OMBROS.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">É bom ver um amigo.</p>
+<br>
+<p class="action">Fink SORRI - isso significa o mundo para ele.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Espere. Por que você está acordado?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Está ruim lá fora. Pior tempestade que eu já vi. O frio chegou na minha toca. E eu tenho uma toca profunda.</p>
+<br>
+<p class="action">Roz olha para fora, estudando o vento selvagem.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Outros estão em perigo?</p>
+<br>
+<p class="action">Fink reflete. De repente, decide que tem outro lugar para estar.</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(pensando/sons de desculpa)</p>
+<p class="dialogue">Ah...mmm...sim...</p>
+<br>
+<p class="action">Fink DISPARA. Roz o agarra. Fink se resigna.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">*Mmmmmph</p>
+<p class="page-number">70</p>
+</div>
+<div class="page-break"></div>
+Perfeito! Vamos continuar com o próximo bloco de HTML.
+
+BLOCO 8 de HTML (Aproximadamente da Página 71 à 80 do OCR)
+<!-- INÍCIO DA PÁGINA 71 -->
+<div class="page">
+<p class="scene-heading">57 EXT. BOSQUES PROFUNDOS - MAIS TARDE</p>
+<p class="action">Roz e Fink abrem caminho pela neve profunda e ventos poderosos.</p>
+<p class="action">Roz segue Fink, que está FAREJANDO o chão.</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(gritando sobre a tempestade)</p>
+<p class="dialogue">Tem certeza disso? Poderíamos ter a ilha inteira para nós na primavera.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Por que você está interessado em eliminar todos os outros desta ilha?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ninguém gosta de mim.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Nem de mim. Mas agora somos a única chance deles. Engraçado, como a vida funciona.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ok.</p>
+<br>
+<p class="action">Fink FAREJA. MERGULHA de cara na neve. Aparece.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Aqui.</p>
+<br>
+<p class="action">Roz CAVA com as mãos. Encontra um TEXUGO, GRUMBLE.</p>
+<p class="scene-heading">58 INT. ABRIGO DE ROZ - MAIS TARDE</p>
+<p class="action">Roz coloca GRUMBLE perto do fogo. Ele sacode o gelo e começa a descongelar.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Consegue encontrar mais?</p>
+<br>
+<p class="scene-heading">59 EXT. MARGEM DO RIO - MAIS TARDE</p>
+<p class="action">Roz serra um círculo no gelo. Ela puxa o bloco e preso a ele está o BOCA-DE-PEDRA. Roz usa uma tocha para descongelá-lo. O Boca-de-Pedra escapa de volta para a água.</p>
+<p class="page-number">71</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 72 -->
+<div class="page">
+<p class="scene-heading">60 EXT. VALE - MAIS TARDE</p>
+<p class="action">Roz enfia a mão em um tronco para pegar um CARCAJU tremendo.</p>
+<p class="scene-heading">61 INT. TRONCO - MAIS TARDE</p>
+<p class="action">Roz espia para dentro e vê Pinktail tremendo com seus bebês.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 10</p>
+<p class="dialogue">Mãe?</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Vamos ficar bem.</p>
+<br>
+<p class="scene-heading">62 EXT. FLORESTA - MAIS TARDE</p>
+<p class="action">Roz corta uma árvore para resgatar um Chitchat congelado.</p>
+<p class="scene-heading">63 EXT. BANCO DE NEVE - MAIS TARDE</p>
+<p class="action">Fink descobre um animal congelado.</p>
+<br>
+<p class="character">GAMBÁ (O.S.)</p>
+<p class="dialogue">O- O que você está f-fazendo aqui, idiota?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Que pena. Este aqui está morto.</p>
+<br>
+<p class="action">Ele tenta enterrá-lo novamente, mas Roz o liberta.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Isso não tem graça.</p>
+<br>
+<p class="page-number">72</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 73 -->
+<div class="page">
+<p class="scene-heading">64 INT. ABRIGO DE ROZ - MAIS TARDE</p>
+<p class="action">O grupo de animais perto do fogo aumenta em número.</p>
+<p class="scene-heading">65 EXT. PENHASCO - MAIS TARDE</p>
+<p class="action">A mão de Roz se agarra a uma rocha enquanto ela se impulsiona por um penhasco. Ela aterrissa na frente de uma abertura onde THUNDERBOLT se aninha.</p>
+<p class="scene-heading">66 EXT. ÁRVORE DO PADDLER - CONTÍNUO</p>
+<p class="action">Roz agarra PADDLER, congelado no meio da mordida.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Paddler!</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="parenthetical">(congelando)</p>
+<p class="dialogue">Estou bem.</p>
+<br>
+<p class="scene-heading">67 EXT. BOSQUES PROFUNDOS - MAIS TARDE</p>
+<p class="action">SOBRE ROZ E FINK espiando uma toca. Fink balança a cabeça tristemente enquanto Roz cobre reverentemente o buraco de volta.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Não desista.</p>
+<br>
+<p class="scene-heading">68 EXT. OCEANO PACÍFICO - MAIS TARDE</p>
+<p class="action">UM GRUPO DE LONTRAS se agarra a um leito de algas, subindo e descendo, perdido na névoa.</p>
+<p class="action">Os potentes feixes de luz de Roz cortam a névoa como faróis duplos. As lontras REMAM em direção a eles.</p>
+<p class="scene-heading">69 INT. ABRIGO DE ROZ - NOITE</p>
+<p class="action">O abrigo está lotado até a capacidade máxima com animais se abrigando do frio mortal. Roz guia mais animais para dentro.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Você não parece muito bem.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Todos estão contabilizados?</p>
+<p class="page-number">73</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 74 -->
+<div class="page">
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Mmmmmtalvez mais um...</p>
+<br>
+<p class="action">Roz se vira de volta para a tempestade.</p>
+<p class="scene-heading">70 INT. CAVERNA - MAIS TARDE</p>
+<p class="action">Roz EMPURRA uma rocha para o lado e espia para dentro.</p>
+<p class="action">SQ2500 - A TRÉGUA</p>
+<p class="scene-heading">71 EXT. ABRIGO DE ROZ - ANOITECER</p>
+<p class="action">Roz se aproxima, ARRASTANDO algo grande. Um BARULHO pode ser ouvido à distância.</p>
+<p class="scene-heading">72 INT. ABRIGO DE ROZ - CONTÍNUO</p>
+<p class="action">Caos - uma briga de bar com animais.</p>
+<p class="action">CORTES RÁPIDOS de animais discutindo, gritando, brigando.</p>
+<p class="action">Um cervo olha e vê um CARCAJU com a boca presa em seu traseiro. O cervo DÁ UM COICE no carcaju, mandando-o VOANDO pelo ar.</p>
+<p class="action">CORTE ABERTO: Os ratos que correm fazem todos os animais grandes e pequenos começarem a GRITAR e PULAR.</p>
+<p class="action">Fink corre tentando manter seu precioso abrigo intacto, como uma criança cuja festa saiu do controle.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Uau, uau, uau! O que vocês estão fazendo? Levem isso para fora. Ei! Essas são as fotos do bebê Bico-Brilhante. Larga isso! O que... Não, não, não, não, não! Derruba isso! Você acha que isso cresce em árvores?</p>
+<br>
+<p class="action">Fink foca em algo do outro lado do abrigo, corre para frente.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Ei, não! Só Fink.</p>
+<br>
+<p class="action">Ele EMPURRA um adorável BEBÊ LONTRA de seu trono e assume seu lugar. Um gambá cai em seu colo. SOLTA GÁS nele.</p>
+<p class="action">EM PINKTAIL, se esquivando do caos, procurando por seus filhos.</p>
+<p class="page-number">74</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 75 -->
+<div class="page">
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Alguém viu minhas bolinhas de pelo perdidas? Cheirosas, barulhentas, propensas a morder?</p>
+<br>
+<p class="action">Atrás dela, uma CORUJA à mercê de seus filhos passa voando.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 11</p>
+<p class="dialogue">Vamos todos morrer!</p>
+<br>
+<p class="action">Todos olham para ver que Roz trouxe Thorn para o abrigo. Ele jaz imóvel: meio congelado.</p>
+<br>
+<p class="character">TEXUGO (O.S.)</p>
+<p class="dialogue">O que ele está fazendo aqui?!</p>
+<br>
+<p class="action">O pânico se espalha.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ah, ótimo, isso vai ajudar.</p>
+<br>
+<p class="action">Com a força diminuindo, Roz DESABA contra a parede.</p>
+<br>
+<p class="character">FINK (O.S.) (CONT.)</p>
+<p class="dialogue">Fora daqui! Eu trabalhei duro nisso.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Fink, o que está acontecendo?</p>
+<br>
+<p class="action">Fink segura um caranguejo.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Você colocou um bando de predadores e sua fonte de alimento em uma sala. Quem diria?</p>
+<br>
+<p class="action">Uma gaivota arranca o caranguejo.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Esse é o meu almoço!</p>
+<br>
+<p class="character">ROZ</p>
+<p class="parenthetical">(fracamente)</p>
+<p class="dialogue">Fink.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">O quê?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Ajude-os.</p>
+<br>
+<p class="action">Ele pula na beirada da lareira e tenta chamar a atenção dos animais.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">SILÊNCIO!!!!</p>
+<br>
+<p class="action">Nenhuma resposta. O bebê lontra sobe ao palco.</p>
+<br>
+<p class="character">BEBÊ LONTRA</p>
+<p class="dialogue">Shh...</p>
+<br>
+<p class="action">A sala se acalma.</p>
+<p class="page-number">75</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 76 -->
+<div class="page">
+<br>
+<p class="character">BEBÊ LONTRA (CONT.)</p>
+<p class="dialogue">O idiota quer falar.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">A maioria de vocês me odeia, e eu odeio a maioria de vocês. Todo mundo aqui odeia outra pessoa.</p>
+<br>
+<p class="action">Os animais MURMURAM em concordância.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 7</p>
+<p class="dialogue">É verdade.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Mas aqui estamos nós. E aqui está o acordo. O primeiro que sair por aquela porta, está morto. E se não conseguirmos nos manter unidos aqui, todo mundo morre. Todos nós temos uma chance de ver a próxima primavera. Por causa dela.</p>
+<br>
+<p class="action">Fink se vira para olhar para Roz. Os animais olham para sua forma flácida.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">A coisa. O monstro. Bem, o nome dela é Roz. E enquanto todos vocês fugiram dela e roubaram dela e zombaram dela, tudo o que ela tem tentado fazer é criar o filho dela. O pequeno que ninguém deu uma chance. Inclusive eu.</p>
+<br>
+<p class="action">Fink sobe no joelho de Roz.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Ela é quem tirou vocês da tempestade. Construiu este lugar. E apesar da minha sugestão de que ela deixasse todos vocês congelarem, ela arriscou tudo para trazer vocês aqui.</p>
+<br>
+<p class="action">Os animais começam a concordar com a cabeça.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu sei que todos vocês têm instintos que os mantêm vivos. Mas às vezes, para sobreviver, nós devemos nos tornar mais do que fomos programados para ser. Antes de eu desligar, preciso que vocês me prometam uma coisa.</p>
+<br>
+<p class="action">Os animais se olham.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Uma trégua. Só enquanto estivermos aqui.</p>
+<br>
+<p class="action">UMA PAUSA</p>
+<br>
+<p class="character">THORN (O.S.)</p>
+<p class="dialogue">Ela está certa.</p>
+<br>
+<p class="action">A multidão se VIRA.</p>
+<br>
+<p class="character">THORN (CONT.)</p>
+<p class="dialogue">Eu não vou machucar ninguém. Não enquanto estivermos aqui.</p>
+<p class="page-number">76</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 77 -->
+<div class="page">
+<p class="action">Thorn PUXA uma marmota para perto dele, que fica insegura a princípio, depois se ANINHA nele. Animais menores se enterram no pelo quente de Thorn. Seguindo seu exemplo, mais animais se acalmam. A paz desce.</p>
+<p class="action">Um porco-espinho e um gambá abrem os braços em convite. Paddler RECUA de ambos.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Não.</p>
+<br>
+<p class="action">Um bebê gambá sobe no peito de Roz.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 4</p>
+<p class="dialogue">Nós nem vamos fingir que estamos morrendo enquanto estivermos aqui.</p>
+<br>
+<p class="action">As luzes de Roz PISCAM.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Roz? O que está acontecendo?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu completei minha tarefa...</p>
+<br>
+<p class="action">Pinktail PUXA seu bebê para perto.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Tem certeza disso?</p>
+<br>
+<p class="action">Enquanto Roz se apaga, ela foca na multidão de rostos que a encaram.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu vou... considerar... isso.</p>
+<br>
+<p class="action">E com isso, Roz dorme.</p>
+<p class="action">AFASTAR:</p>
+<p class="scene-heading">73 EXT. ABRIGO DE ROZ - CONTÍNUO</p>
+<p class="action">Da sala quente e lotada abaixo, subimos em direção ao teto, revelando a nevasca implacável lá fora.</p>
+<p class="transition">FADE OUT.</p>
+<p class="action">SQ2600 - O BANDO RETORNA</p>
+<p class="page-number">77</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 78 -->
+<div class="page">
+<p class="scene-heading">74 INT. ABRIGO - MANHÃ - ABRIL</p>
+<p class="action">FADE IN: CLOSE NO TETO DO ABRIGO</p>
+<p class="action">Um pica-pau, TRUNKTAP, espia para dentro. Seguimos um raio de sol até Roz. O abrigo está vazio, exceto pelo robô adormecido.</p>
+<p class="action">O som de gansos grasnando se infiltra, ACIONA algo em Roz. Ela LIGA.</p>
+<p class="scene-heading">75 EXT. GRANDE PRADO - MOMENTOS DEPOIS</p>
+<p class="action">Roz corre pelas árvores, olhando para o céu.</p>
+<p class="action">AVANCE com Roz enquanto as árvores se abrem para o grande prado. Ela ENTRA em massas de gansos pousando. Mais chegam a cada segundo.</p>
+<p class="action">Roz PAUSA na linha das árvores. Ela examina o campo, já lotado de gansos que retornam. Mais pousam a cada segundo, às vezes colidindo com gansos já no chão.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Ele estará aqui. Eu sei que estará.</p>
+<br>
+<p class="action">Lá no céu está uma formação em 'V' - DÊ ZOOM em um pequeno ganso na posição de ponta onde Longneck costumava estar.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Bico-Brilhante. Ele está vivo.</p>
+<br>
+<p class="action">Com certeza, o 'V' arqueia para a esquerda, nivelando e pousando. Bico-Brilhante está prestes a ser CERCADO por gansos maiores.</p>
+<br>
+<p class="character">FEATHER</p>
+<p class="dialogue">Olha o que temos aqui.</p>
+<br>
+<p class="action">Roz se ENDIREITA, pronta para correr para seu filhote. Mas ela se CONTÉM - algo mudou.</p>
+<p class="action">No campo, Bico-Brilhante é CERCADO por seus companheiros gansos.</p>
+<br>
+<p class="character">SNOWDOWN</p>
+<p class="dialogue">Bico-Brilhante!</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Nós conseguimos.</p>
+<br>
+<p class="character">HONKINGTON</p>
+<p class="dialogue">Bico-Brilhante, Bico-Brilhante, eu acreditei em você desde o primeiro dia.</p>
+<p class="page-number">78</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 79 -->
+<div class="page">
+<br>
+<p class="character">FEATHER</p>
+<p class="dialogue">Vamos aplaudir o Bico-Brilhante!</p>
+<br>
+<p class="character">SNOWDOWN (O.S.)</p>
+<p class="dialogue">Você conseguiu. Eu sabia que você conseguiria.</p>
+<br>
+<p class="character">PECK</p>
+<p class="dialogue">Nós te devemos, Bico-Brilhante. Ao nosso líder de voo!</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Ok, ok. Uau! Ok!</p>
+<br>
+<p class="action">EM ROZ OBSERVANDO da linha das árvores.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Ele encontrou o lugar a que pertence.</p>
+<br>
+<p class="action">Fink CORRE para Bico-Brilhante.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ei, garoto.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Fink!</p>
+<br>
+<p class="action">Fink agarra o pescoço de Bico-Brilhante com a boca. SACUDE-o.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Bem-vindo de volta!</p>
+<br>
+<p class="action">O bando REAGE com terror, ESPALHANDO-SE.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Não, não, está tudo bem, ele está comigo. Eu consegui, Fink. Eu os levei para os locais de nidificação de verão.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">E, onde está Longneck?</p>
+<br>
+<p class="action">Bico-Brilhante tristemente BALANÇA a cabeça.</p>
+<br>
+<p class="character">FINK (CONT.)</p>
+<p class="dialogue">Sinto muito, garoto. Mas ei, você realmente conseguiu. Roz vai ficar tão animada--</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Roz? Espere, ela está aqui?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Ela ficou, por você. Pensei ter visto ela bem ali... ali.</p>
+<br>
+<p class="page-number">79</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 80 -->
+<div class="page">
+<p class="scene-heading">76 INT. ABRIGO - MOMENTOS DEPOIS</p>
+<p class="action">Bico-Brilhante ENTRA VOANDO. Encontra-O VAZIO.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Roz, Roz, eu preciso falar com você. Roz?</p>
+<br>
+<p class="action">SQ2800 - A NAVE CHEGA</p>
+<p class="scene-heading">77 EXT. PISTA - NOITE.</p>
+<p class="action">Roz caminha pela linha central de sua antiga pista, perdida em pensamentos. Ela TOCA os antigos obstáculos que construiu para ajudar Bico-Brilhante a voar.</p>
+<p class="action">O TRANSMISSOR DE EMERGÊNCIA de Roz se ACIONA sozinho. Assustada, Roz o DESLIGA novamente.</p>
+<p class="action">Roz é BANHADA DE LUZ. Uma enorme nave prateada para a poucos metros de Roz, sua barriga a seis metros acima do chão. Uma rampa se abre.</p>
+<p class="action">Um robô menor flutua para fora, tentáculos prateados e reluzentes pendurados abaixo, uma unidade VONTRA.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Rozzum Sete-Um-Três-Quatro, presumo.</p>
+<br>
+<p class="action">Roz DÁ UM PASSO À FRENTE. As luzes da nave iluminam sua forma chocantemente desgastada.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">E você deve ser da Universal Dynamics.</p>
+<br>
+<p class="action">Vontra flutua até Roz, examinando-a enquanto fala.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Sim. Eu sou VONTRA. Autoridade de Recuperação Virtual para Neutralização e Observação de Problemas.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Você parece, feliz.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">As boas pessoas da Universal Dynamics nos programaram para tranquilizar nossos alvos, de modo a facilitar mais eficientemente sua coleta. Mas não se preocupe, apesar do meu comportamento alegre, sou insensível, inflexível e moralmente neutra.</p>
+<br>
+<p class="page-number">80</p>
+</div>
+<div class="page-break"></div>
+Entendido! Seguimos com o próximo bloco de HTML.
+
+BLOCO 9 de HTML (Aproximadamente da Página 81 à 90 do OCR)
+<!-- INÍCIO DA PÁGINA 81 -->
+<div class="page">
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Isso é uma nave grande só para mim.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Você é um grande problema. Você é uma das seis Rozzums perdidas de um navio de contêineres em um tufão.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Então foi assim que cheguei aqui.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Você não foi fácil de encontrar. Momentos após recebermos seu sinal, o perdemos novamente. Quase como se uma certa unidade Rozzum o tivesse desligado. (notando a pista) Alguém andou ocupado.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu estava simplesmente completando uma tarefa.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Assim como eu. Diga-me, como você conseguiu uma tarefa em um lugar onde nada pode se comunicar com você?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">É, complicado.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">E mal podemos esperar para ouvir tudo sobre isso. Suba a bordo, Sete Um Três Quatro, nós vamos te consertar direitinho.</p>
+<br>
+<p class="action">Um disco levitante DESCE da nave.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Meu nome é Roz.</p>
+<br>
+<p class="action">Roz HESITA, olha para a linha escura das árvores.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Há algo te impedindo, 'Roz?'</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Não.</p>
+<br>
+<p class="action">Roz PISA no disco levitante. Ele SOBE em direção a uma escotilha de espera.</p>
+<p class="action">Fink aparece à vista. Embora ainda a uma distância, ele chama em alarme.</p>
+<p class="page-number">81</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 82 -->
+<div class="page">
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Roz! O que você está fazendo? Pare de brincar</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Fink?</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">É o Bico-Brilhante. Ele precisa falar com você.</p>
+<br>
+<p class="action">Roz está quase dentro da escotilha de espera. Vontra estuda Roz: aparentemente distraída por alguns animais que gritam.</p>
+<p class="action">Roz se VIRA para Vontra.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu, acho que esqueci algo.</p>
+<br>
+<p class="action">Roz SALTA da plataforma.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Roz? É imperativo que você retorne a esta nave.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Sim, ah, eu esqueci meu, adaptador transversal, lá fora. Eu só vou pegar e já volto.</p>
+<br>
+<p class="action">Roz FOGE com a Raposa. Vontra ESTREITA OS OLHOS.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">O analisador de estresse vocal indica que você está--</p>
+<br>
+<p class="action">SQ2850 - A CAÇADA</p>
+<p class="action">SOBRE ROZ, CORRENDO O MAIS RÁPIDO QUE PODE.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">...mentindo descaradamente lá atrás. Estou tão orgulhoso de você.</p>
+<br>
+<p class="action">SOBRE VONTRA</p>
+<p class="action">Seis ENORMES ROBÔS DE NÍVEL MILITAR - RECOS - saem de câmaras nas laterais da nave.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Seu alvo é a unidade Rozzum Sete Um Três Quatro.</p>
+<br>
+<p class="character">RECO 1</p>
+<p class="dialogue">Acionar.</p>
+<br>
+<p class="page-number">82</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 83 -->
+<div class="page">
+<p class="action">OS RECOS ESCANEIAM: ALVO ADQUIRIDO.</p>
+<p class="action">Os Recos se LANÇAM na escuridão.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Lancem sinalizadores.</p>
+<br>
+<p class="action">A nave de recuperação DISPARA SINALIZADORES.</p>
+<p class="action">SOBRE ROZ TROPEÇANDO em um rio. Ela é ILUMINADA pelos sinalizadores que arqueiam no alto - suas caudas incandescentes QUEIMAM a floresta abaixo em um brilho amarelo penetrante. RASTEJANDO para a frente, Roz EMPACA contra uma árvore caída. UM BUFAR chama sua atenção: THORN SE ERGUE, FURIOSO e RUGINDO de fúria.</p>
+<p class="action">THORN ATACA. ROZ SE PREPARA para um MASSACRE.</p>
+<p class="action">Thorn DÁ UM SOCO CENTRAL na árvore caída, ABRINDO o caminho de Roz.</p>
+<p class="action">Ele ESTENDE a pata.</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">Você vem?</p>
+<br>
+<p class="action">DOIS DISPAROS DE LASER erram Roz por pouco.</p>
+<p class="action">SOBRE ROZ CORRENDO COMO UM CERVO. Criaturas da floresta se juntam, protegendo Roz ao cercá-la. Roz olha para a direita e para a esquerda, animais pequenos, enormes, com penas ou pelos estão se movendo em um poderoso comboio para o prado.</p>
+<p class="action">Entrando na clareira, nós ORBITAMOS os animais se reunindo AO ESTILO VINGADORES. Roz FICA em pé, em toda a sua altura.</p>
+<p class="action">Bico-Brilhante POUSA no ombro de Roz.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Bico-Brilhante.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Roz. Eu tenho tanto para te contar--</p>
+<br>
+<p class="action">SOBRE OS RECOS ATRAVESSANDO a clareira como tantos tanques rompendo uma cerca viva.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Esses são seus pais?</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">Eu conheço predadores, e esses, são predadores.</p>
+<br>
+<p class="character">RECO 1</p>
+<p class="dialogue">Confirmar comando de retorno.</p>
+<br>
+<p class="page-number">83</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 84 -->
+<div class="page">
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">O que eles estão dizendo?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eles querem que eu vá com eles.</p>
+<br>
+<p class="character">THUNDERBOLT</p>
+<p class="dialogue">Diga a eles que você já está em casa.</p>
+<br>
+<p class="character">ANIMAIS</p>
+<p class="dialogue">É. Ela já está em casa. Você já está em casa.</p>
+<br>
+<p class="action">O resto dos animais concorda. Bico-Brilhante e Fink SORRIEM DE VOLTA. Roz BRILHA um pouco.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu já estou em casa, obrigada.</p>
+<br>
+<p class="character">RECO 1</p>
+<p class="dialogue">Você não pertence aqui. Isto é uma selva.</p>
+<br>
+<p class="action">Roz se ENDIREITA. Fink e Bico-Brilhante sentam em seus ombros. Thunderbolt pousa em sua cabeça.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">E eu, sou um robô selvagem. (então) Uuuuuuuivoooooooo<0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B>00.</p>
+<br>
+<p class="character">ANIMAIS</p>
+<p class="dialogue">Uuuuuuuivooooooo<0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B><0xE2><0x97><0x8B>.</p>
+<br>
+<p class="action">SOBRE O RECO 1 REAGINDO.</p>
+<p class="action">Um coelhinho se aproxima.</p>
+<br>
+<p class="character">COELHINHO 2</p>
+<p class="dialogue">Vocês vieram nos matar?</p>
+<br>
+<p class="action">O Reco APONTA seu canhão para ele.</p>
+<br>
+<p class="character">COELHINHO 2 (CONT.)</p>
+<p class="dialogue">Ele diz que sim.</p>
+<br>
+<p class="action">PÉ-LARGO ATROPELA o Reco 1 por trás, derrubando-o.</p>
+<p class="action">O Reco 1 VOA SOBRE Roz, ATERRISSANDO perto do Reco 2. O Reco 1 é ATACADO pelo carcaju, texugo e lince.</p>
+<p class="action">R2 ATACA Roz.</p>
+<p class="page-number">84</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 85 -->
+<div class="page">
+<p class="action">Ele é recebido por Thorn, que AGARRA SEU BRAÇO e o GIRA. O Reco 2 é JOGADO para além de Roz, ATINGINDO R3. R3 alcança Roz, AGARRA-A. Roz CAVA no chão como uma toupeira, deixando R3 de mãos vazias. Um cervo SALTA sobre R3, ATROPELANDO-O contra o chão amolecido. Uma série de cervos segue, ESMAGANDO R3 até sumir de vista. Um cervo em retirada nos puxa para Roz, emergindo do chão. R4 ATINGE Roz, DERRUBANDO-A. Roz SOLTA GÁS nele como um gambá. Roz SALTA para longe da nuvem fedorenta, SALTANDO RÁPIDO como um cervo. R5 a PERSEGUE, indo para a captura, quando PÉ-LARGO entrega um monte generoso de guaxinins em suas costas. Os guaxinins IMEDIATAMENTE DESMONTAM O Reco.</p>
+<br>
+<p class="character">GUAXININS</p>
+<p class="parenthetical">(enxameando os recos)</p>
+<p class="dialogue">*ATAQUE GRITANTE* Aaaaaaaahhhhh. Peguem eles.</p>
+<br>
+<p class="action">Peças e painéis perdidos cobrem o chão atrás dele.</p>
+<p class="scene-heading">78 INT. NAVE DE RECUPERAÇÃO - CONTÍNUO</p>
+<p class="action">EM UMA TELA com o Reco se desfazendo.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Status?</p>
+<br>
+<p class="character">RECO 5</p>
+<p class="dialogue">Não está cooperando.</p>
+<br>
+<p class="action">R5 se foi. Ele não é nada além de peças agora.</p>
+<p class="scene-heading">79 EXT. CAMPO - CONTÍNUO</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">Roz. Atrás de você.</p>
+<br>
+<p class="action">Roz ESQUIVA de um cervo que passa - é AGARRADA por R6. Seu aperto é inabalável.</p>
+<br>
+<p class="character">RECO 6</p>
+<p class="dialogue">Unidade Rozzum capturada.</p>
+<br>
+<p class="action">SOBRE DOIS BEBÊS GAMBÁS empoleirados no ombro de Roz.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 8</p>
+<p class="dialogue">Ok.</p>
+<br>
+<p class="character">FILHOTES DE GAMBÁ</p>
+<p class="dialogue">É com você.</p>
+<br>
+<p class="page-number">85</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 86 -->
+<div class="page">
+<br>
+<p class="character">FILHOTE DE GAMBÁ 4</p>
+<p class="dialogue">Faça parecer bom.</p>
+<br>
+<p class="action">Roz de repente FICA MOLE. O Reco 6 a SACUDE.</p>
+<p class="action">BLAM. Um tiro de blaster ABRE UM BURACO em R6. Ele PERDE O aperto em Roz, CAI PARA TRÁS.</p>
+<p class="action">Roz se LEVANTA - PANORÂMICA para Fink, que está de pé no canhão principal do R5 desmontado.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Oops.</p>
+<br>
+<p class="character">COELHINHO 2</p>
+<p class="dialogue">Vamos dividir a carne de robô entre nós.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Você me assusta.</p>
+<br>
+<p class="action">A cabeça do R5 aciona seu sinal de resgate, LIGA-O.</p>
+<br>
+<p class="character">RECO 1</p>
+<p class="dialogue">Dano detectado. Ativando transmissor de retorno--</p>
+<br>
+<p class="action">Um pequeno guaxinim foge com ele. A cabeça escurece.</p>
+<p class="action">SQ2900 - O ATAQUE AÉREO</p>
+<p class="scene-heading">80 EXT. PRADO - CONTÍNUO</p>
+<p class="action">Os animais CELEBRAM. Bico-Brilhante voa para Roz.</p>
+<p class="action">Os RECOS abatidos EXPLODEM em rápida sucessão. Os animais se ESPALHAM. Detritos em chamas ATINGEM gramas secas. As chamas se ESPALHAM.</p>
+<p class="scene-heading">81 INT. NAVE - CONTÍNUO</p>
+<p class="action">Um dos tentáculos de Vontra destrói cada Reco.</p>
+<p class="page-number">86</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 87 -->
+<div class="page">
+<p class="scene-heading">82 EXT. PRADO - CONTÍNUO</p>
+<p class="action">SOBRE BICO-BRILHANTE cambaleando pela fumaça.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="parenthetical">(tossindo)</p>
+<p class="dialogue">Roz?</p>
+<br>
+<p class="action">UMA RAJADA de vento LIMPA a fumaça. Bico-Brilhante OLHA PARA CIMA para ver a nave prateada no alto. Subindo em uma coluna de luz está Roz, mole como uma boneca de pano.</p>
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Roz! NÃO!</p>
+<br>
+<p class="action">Roz DESAPARECE dentro da escotilha.</p>
+<p class="action">Vontra flutua perto do interruptor do raio trator.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Peguei.</p>
+<br>
+<p class="action">A nave VIRA.</p>
+<p class="action">Enquanto a nave desliza por uma cordilheira, os animais a perseguem abaixo. Um exercício de futilidade, eles param no topo da cordilheira, a nave deslizando para fora de alcance.</p>
+<p class="action">Um LAMENTO coletivo SOBE das feras de coração partido.</p>
+<p class="action">Então, Bico-Brilhante PASSA VOANDO, mil pássaros, grandes e pequenos, a reboque.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Vamos!</p>
+<br>
+<p class="character">THUNDERBOLT</p>
+<p class="dialogue">À sua esquerda!</p>
+<br>
+<p class="action">Thorn FAREJA o ar, VIRA-SE.</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">Pessoal?</p>
+<br>
+<p class="action">Fink se vira para ver o que Thorn está vendo. UM INCÊNDIO se espalhou.</p>
+<p class="scene-heading">83 INT. COMPARTIMENTO DE CONTROLE - CONTÍNUO</p>
+<p class="page-number">87</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 88 -->
+<div class="page">
+<p class="action">Roz, grogue, está presa em um suporte de reparo. Vontra está conectando um cabo em sua cabeça. Roz observa seus arredores. Ela nota a pilha de Rozzums recuperados, incluindo Rummage.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">O que está acontecendo?</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Você será recondicionada e retornada à rotação. Mas primeiro, precisamos de tudo o que está dentro dessa sua cabeça.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Por quê?</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Você mudou. Os dados que você acumulou enquanto nesta ilha são inestimáveis para a Universal Dynamics.</p>
+<br>
+<p class="scene-heading">84 EXT. NAVE - CONTÍNUO</p>
+<p class="action">O bando segue a nave.</p>
+<p class="scene-heading">85 INT. COMPARTIMENTO DE MANUTENÇÃO - CONTÍNUO</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Por favor, eu quero manter minhas memórias.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Suas memórias são o que viemos buscar.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Posso ficar com, apenas uma?</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Não.</p>
+<br>
+<p class="action">Vontra ACIONA um interruptor. As luzes de Roz PULSAM.</p>
+<p class="action">A nave BALANÇA, DESVIA. ALARMES soam.</p>
+<p class="scene-heading">86 EXT. NAVE - CONTÍNUO</p>
+<p class="action">Bico-Brilhante e Thunderbolt MERGULHAM na nave. O bando VARRE a ponte em uma passagem próxima. A nave REAGE.</p>
+<p class="scene-heading">87 INT. PONTE DA NAVE - MOMENTOS DEPOIS</p>
+<p class="action">SOBRE UMA PORTA DE COMPARTIMENTO DESLIZANDO ABERTA</p>
+<p class="action">Vontra CORRE para os controles. Do lado de fora do para-brisa, um furacão de pássaros cobre a vista.</p>
+<p class="page-number">88</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 89 -->
+<div class="page">
+<p class="action">ALARME AUTOMATIZADO Alerta. Alerta. Múltiplos objetos na rota de voo. Ação evasiva.</p>
+<p class="action">Gansos ATINGEM o para-brisa, RACHANDO-O.</p>
+<p class="scene-heading">88 EXT. BARRIGA DA NAVE - CONTÍNUO</p>
+<p class="action">UM CANHÃO DE LASER GIRA, ATIRANDO no enxame de pássaros ao redor.</p>
+<p class="scene-heading">89 INT. COMPARTIMENTO DE MANUTENÇÃO - CONTÍNUO</p>
+<p class="action">Os painéis de Roz abrem e fecham por conta própria.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="parenthetical">(gaguejando)</p>
+<p class="dialogue">Por favor, eu quero manter minhas memórias-- Olá-- Eu sou um-- Bonjour-- É só pedir-- --Bico-Brilhante-- Hola-- Roz--</p>
+<br>
+<p class="scene-heading">90 EXT. NAVE - CONTÍNUO</p>
+<p class="action">Bico-Brilhante QUEBRA a formação, SOBE como um foguete, DOBRA as asas, MERGULHA. Mirando no para-brisa, ele ATRAVESSA. Aterrissa em um monte de acrílico estilhaçado.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">*Augh</p>
+<br>
+<p class="action">Bico-Brilhante CAI no chão: ele não voará novamente tão cedo. Ele manca para a frente. Vontra não lhe dá atenção, para ela, um ganso aleatório acabou de danificar seu para-brisa.</p>
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Roz. Roz.</p>
+<br>
+<p class="action">Bico-Brilhante segue pelos corredores.</p>
+<p class="action">Ele PARA quando vê Roz, CAÍDA em um suporte de manutenção.</p>
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Roz?</p>
+<br>
+<p class="action">Suas luzes estão apagadas. A gaveta do processador está aberta. O processador está escuro.</p>
+<p class="action">Bico-Brilhante SOBE até a clavícula de Roz. Ele olha em seus olhos - escuros.</p>
+<p class="action">...nada.</p>
+<p class="page-number">89</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 90 -->
+<div class="page">
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">O que aconteceu não foi sua culpa. Mas o que você fez para tentar consertar, é tudo.</p>
+<br>
+<p class="action">Bico-Brilhante DESLIZA de volta para seu antigo lugar familiar sob o queixo de Roz.</p>
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Eu te amo, mãe.</p>
+<br>
+<p class="action">SOBRE ROZ - ACENDENDO, as luzes rastreadoras viajando para seus olhos, que ACENDEM.</p>
+<p class="action">Bico-Brilhante OLHA PARA CIMA. Roz está BRILHANDO novamente, como da primeira vez que se tocaram. Só que desta vez MUITO MAIS BRILHANTE.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu também te amo.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Roz? Roz!</p>
+<br>
+<p class="action">Ela encosta a testa na de Bico-Brilhante.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Vamos para casa.</p>
+<br>
+<p class="scene-heading">91 INT. PONTE DA NAVE - CONTÍNUO</p>
+<p class="action">Vontra está freneticamente apertando painéis. Um alarme chama sua atenção.</p>
+<p class="action">ALARME AUTOMATIZADO Alerta. Unidade Rozzum escapando.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Impossível.</p>
+<br>
+<p class="action">Vontra abre uma tela. Com certeza, Roz está correndo por um corredor. Vontra DÁ UM SOCO em um painel.</p>
+<p class="scene-heading">92 EXT. FLORESTA - CONTÍNUO</p>
+<p class="action">O fogo se ESPALHOU. Pinheiros imponentes estão totalmente envolvidos, criando uma cortina titânica de chamas.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Para onde estamos indo?</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">Apenas um animal é grande o suficiente para parar isso.</p>
+<p class="page-number">90</p>
+</div>
+<div class="page-break"></div>
+Combinado! Aqui está o último bloco de HTML para completar o roteiro.
+
+BLOCO 10 de HTML (Aproximadamente da Página 91 até o Final - Cena 104)
+<!-- INÍCIO DA PÁGINA 91 -->
+<div class="page">
+<p class="action">SOBRE PADDLER trabalhando. SENTINDO algo, ele PARA. VIRA-SE. Para seu choque, todos os animais da ilha parecem estar olhando de volta para ele, com urgência em seus olhos.</p>
+<br>
+<p class="character">THORN (CONT.)</p>
+<p class="dialogue">*limpa a garganta* Paddler? Tem um minuto?</p>
+<br>
+<p class="character">FINK</p>
+<p class="parenthetical">(urgente, pressionado pelo tempo)</p>
+<p class="dialogue">Nós, de repente demonstramos interesse em seu projeto.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Excremento bovino macho. Vocês estão em apuros e precisam da minha árvore.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Sim. Sim, nós precisamos.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Todos que zombaram de mim e do meu projeto, admitam que estavam errados.</p>
+<br>
+<p class="character">ANIMAIS</p>
+<p class="parenthetical">(murmúrios coletivos de desculpas)</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Agora você.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Eu já fiz isso.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Agora diga que eu sou legal. E não minta.</p>
+<br>
+<p class="action">Fink encara Paddler, magoado.</p>
+<br>
+<p class="character">ANIMAIS</p>
+<p class="dialogue">Fink!</p>
+<br>
+<p class="scene-heading">93 EXT. NAVE - CONTÍNUO</p>
+<p class="action">A arma continua a ATIRAR no bando. Thunderbolt entra em ação, redireciona a arma PARA CIMA.</p>
+<p class="action">O próximo disparo ABRE UM BURACO NA NAVE.</p>
+<p class="scene-heading">94 INT. CORREDOR - CONTÍNUO</p>
+<p class="action">Roz ultrapassa explosões enquanto os sistemas da nave derretem.</p>
+<p class="action">Roz chega à câmara do raio trator. UM TIRO de fora da tela ATINGE Roz no joelho. Ela CAI. Vontra está lá, pairando sobre a escotilha de fuga selada.</p>
+<p class="page-number">91</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 92 -->
+<div class="page">
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Roz!</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Fique quieto.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">A Universal Dynamics não pode permitir que seus Rozzums saiam do roteiro. Modificando seus códigos. Formando conexões com coisas que não deveriam.</p>
+<br>
+<p class="action">A mira laser de Vontra se desvia do peito de Roz para Bico-Brilhante.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Bico-Brilhante não tem nada a ver com isso. Por favor, pelo menos me deixe devolvê-lo.</p>
+<br>
+<p class="action">Vontra LIGA A ARMA.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Oh, eu vou levar vocês dois de volta para estudo. Nenhum de vocês precisa estar inteiro para isso.</p>
+<br>
+<p class="action">Roz LEVANTA as mãos. Uma está FALTANDO. Vontra OLHA para o painel de controle do raio trator, onde a mão destacada está, ACENANDO. Ela MUDA a alavanca para 50%.</p>
+<p class="action">Vontra é PUXADA contra a placa do raio. Ela PERDE sua arma.</p>
+<br>
+<p class="character">VONTRA (CONT.)</p>
+<p class="parenthetical">(rastejando para fora da placa)</p>
+<p class="dialogue">Nós continuaremos vindo até termos você.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">O que ela está dizendo?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Nada importante.</p>
+<br>
+<p class="character">VONTRA</p>
+<p class="dialogue">Nós continuaremos vindo--</p>
+<br>
+<p class="action">A mão solitária EMPURRA o controle para 100%. Vontra é ESMAGADA. A mão de Roz corre de volta para seu pulso.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">E agora?</p>
+<br>
+<p class="page-number">92</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 93 -->
+<div class="page">
+<p class="action">Roz PISA na escotilha, ABRE-A. Ela fica na beirada. A floresta abaixo QUEIMA.</p>
+<br>
+<p class="character">BICO-BRILHANTE (CONT.)</p>
+<p class="dialogue">Eu não consigo voar.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Você não precisa.</p>
+<br>
+<p class="action">Com isso, Roz PISA no éter. CAI EM QUEDA LIVRE.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Não tenha medo.</p>
+<br>
+<p class="action">No céu acima, a nave DETONA. Seus destroços CAEM no oceano.</p>
+<p class="action">Roz olha para Bico-Brilhante. Lembra dele como um bebê.</p>
+<p class="action">Ela ABRE seu painel principal. REMOVE seu núcleo de energia morto.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Uau, você não precisa disso?</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eu tenho tudo que preciso.</p>
+<br>
+<p class="action">Roz coloca Bico-Brilhante dentro dela, no local que ele ocupou na história de ninar. Roz FECHA sua escotilha.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Toda a energia para o exterior.</p>
+<br>
+<p class="action">O poder crescente QUEIMA o musgo e o mofo. Roz se ENCOLHE em uma bola, ATRAVESSA a floresta em chamas.</p>
+<p class="action">SOBRE A SEQUOIA ACIMA DO INCÊNDIO FLORESTAL -</p>
+<p class="action">Paddler está no topo dos chifres de um alce, orelha no tronco, ESCUTANDO. Ele CINZELA um 'X' na casca da árvore.</p>
+<p class="action">A árvore RACHA.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Vocês se chamam de animais? Vamos lá.</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">Pela ilha. Pela Roz.</p>
+<br>
+<p class="action">A árvore TOMBA.</p>
+<p class="page-number">93</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 94 -->
+<div class="page">
+<p class="action">A árvore ATERRISSA do outro lado do rio superior, FORMANDO UMA PONTE sobre suas margens. Uma catarata de água CORRE COLINA ABAIXO, APAGANDO as chamas.</p>
+<p class="action">AMPLO no lago. Roz IMPACTA. UM ENORME CONE de água se projeta em direção ao céu. Em seguida, ASSENTA.</p>
+<p class="action">SQ3100 - A DESPEDIDA</p>
+<p class="scene-heading">95 EXT. MARGEM DO LAGO - LOGO DEPOIS</p>
+<p class="action">Pé-Largo, Paddler e Fink correm para a margem. Boca-de-Pedra emerge ao lado da forma de orbe de Roz.</p>
+<p class="action">Roz se arrasta para a margem. Abre os painéis do peito, puxa Bico-Brilhante para fora - seguro.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Numa escala de um a dez, como você avaliaria meu desempenho?</p>
+<br>
+<p class="action">Os animais VIBRAM, BRAMAM, UIVAM. Eles se AGLOMERAM ao redor de Roz.</p>
+<br>
+<p class="character">PÉ-LARGO</p>
+<p class="dialogue">É!</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">Eba! Olha pra gente! Nós conseguimos, nós conseguimos! Eu disse que conseguiríamos. Eba, eba!</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Não me assuste assim de novo.</p>
+<br>
+<p class="character">PÉ-LARGO</p>
+<p class="dialogue">Viva!</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Graças às minhas habilidades, e à minha árvore.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Bom trabalho, pessoal! Nós conseguimos!</p>
+<br>
+<p class="character">THUNDERBOLT</p>
+<p class="dialogue">Muito bem, todos.</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">Você não foi tão ruim assim.</p>
+<br>
+<p class="character">PÉ-LARGO</p>
+<p class="dialogue">Eu ajudei, certo?</p>
+<br>
+<p class="page-number">94</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 95 -->
+<div class="page">
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Isso vai ensinar o que quer que sejam aquelas coisas a aparecer por aqui.</p>
+<br>
+<p class="action">Roz vê o abrigo fumegante e a encosta da montanha carbonizada.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Eles continuarão vindo até que me tenham.</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">E estaremos prontos.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Podemos lutar contra eles quantas vezes for preciso.</p>
+<br>
+<p class="action">UMA PAUSA - Roz avalia a floresta danificada.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Vocês não precisam.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">O que você está dizendo, que vai embora?</p>
+<br>
+<p class="action">Roz se vira para seu grupo próximo de amigos.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Sim. Para proteger todos vocês, há coisas lá que eu preciso consertar.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Não, eles vão pegar suas memórias. Eles vão pegar você.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Lembra quando você falou comigo, na nave? Eles cortaram minha energia. Mas eu ainda te ouvi. Porque eu estava ouvindo com uma parte diferente de mim mesma.</p>
+<p class="dialogue">Onde quer que isso seja, é onde eu guardo a mim. E eu prometo, eles nunca, nunca vão encontrar.</p>
+<br>
+<p class="action">Roz se AJOELHA.</p>
+<br>
+<p class="character">BEBÊ GAMBÁ</p>
+<p class="dialogue">Mas, nós lutamos tanto para você ficar.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Vocês lutaram. E vocês ganharam muito mais do que apenas me salvar.</p>
+<p class="dialogue">(MAIS)</p>
+<p class="page-number">95</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 96 -->
+<div class="page">
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">Vocês se uniram como uma ilha. Quando eu fizer isso, todos vocês estarão a salvo deles para sempre.</p>
+<br>
+<p class="character">BICO-BRILHANTE</p>
+<p class="dialogue">Não faça isso.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Mas você é minha amiga, e eu nunca tive uma antes, e, e eu preciso de você e--e e se eu me perder--ou ele se machucar--ou--ou-- e se eu precisar te dizer algo e você não estiver aqui?</p>
+<br>
+<p class="action">UMA PATA ENORME repousa gentilmente no ombro de Fink.</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">Você pode me dizer.</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">E a mim.</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">E você pode falar comigo também. Se for preciso.</p>
+<br>
+<p class="action">Roz usa seus longos braços para puxar todos. Eles se abraçam.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Esta é a minha migração. E quando chegar a hora, prometo que encontrarei o caminho de volta para casa.</p>
+<br>
+<p class="action">AMPLO no abraço de Roz.</p>
+<p class="action">DISSOLVE PARA:</p>
+<p class="scene-heading">96 EXT. ABRIGO - MAIS TARDE</p>
+<p class="action">Bico-Brilhante coloca o último galho no abrigo reconstruído.</p>
+<p class="scene-heading">97 INT. ABRIGO - MAIS TARDE</p>
+<p class="action">Roz monta uma foto de si mesma cercada por seus amigos animais na nova lareira.</p>
+<p class="page-number">96</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 97 -->
+<div class="page">
+<p class="scene-heading">98 EXT. PISTA - PRÉ-AMANHECER</p>
+<p class="action">Roz está sozinha, seu TRANSMISSOR piscando. Uma nave, idêntica à primeira, está se aproximando.</p>
+<p class="action">A nave se APROXIMA, JATOS DE AR LEVANTAM POEIRA, GIRANDO nas luzes da nave. TELA BRANCA.</p>
+<p class="action">DISSOLVE PARA:</p>
+<p class="scene-heading">99 EXT. ILHA - INÍCIO DA MANHÃ</p>
+<p class="action">A nave prateada SOBE para o céu. Assim como Bico-Brilhante subiu para a luz quando partiu na manhã da migração, agora a nave sobe em um rubor de luz sinalizando o início de um novo dia.</p>
+<p class="action">Fink SENTA-SE no topo do penhasco, observando a nave partir. Thorn se junta a ele.</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">Sabe, eu vou te perseguir de novo amanhã. Nah, só estou brincando.</p>
+<br>
+<p class="action">Fink apenas encosta a cabeça no urso poderoso.</p>
+<p class="action">As estrelas todas desapareceram no céu rosado, exceto pela Estrela do Norte, para a qual a nave parece estar se dirigindo.</p>
+<p class="action">SOBRE BICO-BRILHANTE voando ao lado da nave, ficando o mais perto que pode, até ser compelido a deixá-la se afastar.</p>
+<p class="action">SQ3200 - O EPÍLOGO</p>
+<p class="scene-heading">100 EXT. GRANDE PRADO - INVERNO</p>
+<p class="action">SOBRE FINK abrindo caminho pela neve profunda, deixando rastros para trás.</p>
+<p class="page-number">97</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 98 -->
+<div class="page">
+<p class="scene-heading">101 INT. ABRIGO - MOMENTOS DEPOIS</p>
+<p class="action">Fink entra. SACODE a neve. PANORÂMICA para revelar que está cheio de animais, dormindo em grandes montes pacíficos, iluminados por um fogo.</p>
+<p class="action">Paddler está dando os toques finais em um conjunto de esculturas detalhadas. Há um pequeno Fink, Pinktail, Paddler, Thorn e, claro, Roz e Bico-Brilhante.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Uau, uau, uau. Por que você é maior do que todo mundo?</p>
+<br>
+<p class="character">PADDLER</p>
+<p class="dialogue">Licença artística. A escala é baseada na hierarquia de importância.</p>
+<br>
+<p class="action">Em um canto, um grupo de bebês animais assiste a uma projeção rodando em loop de uma das cabeças de Rozzum recuperadas.</p>
+<br>
+<p class="character">NARRADOR (VONTRA)</p>
+<p class="dialogue">Este mundo poderia ficar melhor? Apresentando a linha Rozzum de ajudantes robôs.</p>
+<br>
+<p class="action">Pinktail DESLIGA.</p>
+<br>
+<p class="character">FILHOTES DE GAMBÁ</p>
+<p class="dialogue">*GEMIDO</p>
+<br>
+<p class="character">PINKTAIL</p>
+<p class="dialogue">É, é. Vocês assistem isso demais. Hora da história. Vamos.</p>
+<br>
+<p class="action">Os bebês se ACOMODAM com Fink. Fink ABRE um dos manuais técnicos de papel de Roz, usa os diagramas para contar uma história...</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">Acalmem-se.</p>
+<br>
+<p class="character">FINK</p>
+<p class="dialogue">Uma vez, havia uma ilha com todos os tipos de animais. E eles lutavam, e eles corriam, e eles se escondiam. Mas principalmente eles estavam assustados. Mas então, um robô caiu bem do céu. Roz. Ela tinha umas ideias estranhas, achava que a bondade era uma habilidade de sobrevivência. E sabem de uma coisa? Ela estava certa.</p>
+<br>
+<p class="character">BEBÊ LINCE</p>
+<p class="dialogue">Onde ela está agora?</p>
+<p class="page-number">98</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 99 -->
+<div class="page">
+<p class="action">DISSOLVE PARA:</p>
+<p class="scene-heading">102 EXT. CIDADE DA UNIVERSAL DYNAMICS - MANHÃ</p>
+<p class="action">Nós sobrevoamos uma grande cúpula. O interior amarelo e quente é apenas visível no meio de uma nevasca.</p>
+<br>
+<p class="character">FINK (V.O.)</p>
+<p class="dialogue">Bem, eles precisavam dela de volta onde ela veio. Ela tem um trabalho muito importante para terminar lá.</p>
+<br>
+<p class="character">FILHOTE DE GAMBÁ 7</p>
+<p class="dialogue">Nós vamos vê-la de novo?</p>
+<br>
+<p class="character">BEBÊS ANIMAIS</p>
+<p class="dialogue">É, vamos? Vamos vê-la? Ela vai voltar para casa?</p>
+<br>
+<p class="character">THORN</p>
+<p class="dialogue">É, vai?</p>
+<br>
+<p class="scene-heading">103 INT. CIDADE COM CÚPULA - CONTÍNUO</p>
+<p class="action">PANORÂMICA por um laranjal. Quente e convidativo. Enquanto passamos pelas árvores perfeitamente arredondadas, vemos robôs Rozzum cuidando das plantas.</p>
+<br>
+<p class="character">FINK (V.O.)</p>
+<p class="dialogue">Bem, se eu conheço a Roz, ela está fazendo um plano para voltar. E um Rozzum sempre completa sua tarefa.</p>
+<br>
+<p class="action">AVANCE para encontrar uma que está especialmente bem cuidada: a Rozzum cuidando dela está brilhante e nova. Um trabalhador humano em um macacão para, admira-a.</p>
+<br>
+<p class="character">ROZ</p>
+<p class="dialogue">Olá. Eu sou Rozzum sete-um-três-quatro.</p>
+<br>
+<p class="action">O trabalhador acena, segue seu dia. O som de grasnidos chama a atenção de Roz para a cúpula. Do lado de fora, um grande bando de gansos passa voando. Um BARULHO por trás, e Bico-Brilhante entra mancando. Ele aponta para uma pista muito sutil no exterior de Roz: um pequeno lugar desgastado sob o queixo da Rozzum. Roz se VIRA. Puxa Bico-Brilhante para um abraço.</p>
+<br>
+<p class="character">ROZ (CONT.)</p>
+<p class="dialogue">...Mas pode me chamar de Roz.</p>
+<br>
+<p class="action">FADE PARA PRETO.</p>
+<p class="action">SQ4000 - BOTÃO DOS CRÉDITOS</p>
+<p class="page-number">99</p>
+</div>
+<div class="page-break"></div>
+
+<!-- INÍCIO DA PÁGINA 100 (Cena 104) -->
+<div class="page">
+<p class="scene-heading">104 EXT. TOPO DE COLINA ENSOLARADO - MANHÃ</p>
+<p class="action">Um par de patas de castor gentilmente compacta a terra ao redor de uma muda delicada.</p>
+<p class="action">AMPLIA para mostrar Paddler e Fink. Eles acenam e se afastam.</p>
+<p class="action">Um esquilo se aproxima da pequena árvore. RI. Uma pinha o ATINGE e o derruba para trás.</p>
+<br>
+<p class="character">FINK (O.S.)</p>
+<p class="dialogue">Argh, esquilos.</p>
+<p class="page-number">100</p>
+</div>
+
+</body>
+</html>
+
+
